@@ -20,7 +20,9 @@ Decompressing that we get another base64 file.
 
 Decoding that file, we arrive at what is like the PHP server of a C2 server.
 
-The hint is to try and find the email address
+Got distracted by base64 encoded images and tried to grab all of these but they were logos of Microsoft and Cortana(?).
+
+The hint is to try and find the email address. So searched for "mail"
 
 ```
 public function mailTo($add,$cont){
