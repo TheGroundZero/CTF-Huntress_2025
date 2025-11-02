@@ -60,7 +60,7 @@ b5d6e1df82d2576
 
 What if we sort based on deletion timestamp?
 
-Reformat the text a little by removing the RBCmd header, turning it more in a csv-like format with one line for each file, and moving the timestamp to the start so we can more easily sort.
+Reformat the RBCmd log a little by removing the RBCmd header, turning it more in a csv-like format with one line for each file, and moving the timestamp to the start so we can more easily sort.
 If we then grab the file sizes and decimal decode them, we get `ffflllaaaggg{{{111ddd222bbb222bbb000555666777111eeeddd111eeeeee555888111222666777888888555000ddd555eee333222999}}}`
 
 Let's deduplicate that using the following search `(.)\1{2}` and replace `$1` to deduplicate all groups of 3 repeating characters.
