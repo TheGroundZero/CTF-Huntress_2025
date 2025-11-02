@@ -9,3 +9,6 @@
 > 
 > A host that you protect had some strange alerts fire off... can you analyze and triage to find other malicious activity?
 
+Portal allows us to browse the victim's filesystem.
+
+Discover `GTRS - Google Translator Reverse Shell`
