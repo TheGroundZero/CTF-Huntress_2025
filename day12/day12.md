@@ -27,5 +27,5 @@
 
 `42 6c 6f 77 66 69 73 68` decoded from HEX results in `Blowfish`
 
-Decoding `scribbles.dat` from Blowfish using `42 6c 6f 77 66 69 73 68` for both key as IV, results in a text file with lots o 8-bit segments.
+Decoding `scribbles.dat` from Blowfish using `42 6c 6f 77 66 69 73 68` for both key as IV, results in a text file with lots of 8-bit segments.
 
