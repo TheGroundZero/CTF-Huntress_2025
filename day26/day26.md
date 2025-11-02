@@ -39,7 +39,7 @@ e75147c1b1b9406.bin:	f18ba
 - We need to combine these outputs somehow to end up with a `flag{<MD5 string>}` somehow...
 - Look at the challenge description: "Sasha(sh) will help us", "`OH NOoOoO00!!!!!111`"
 - Let's grab the sha256 hashes of each binary
-- Notice the trailing `0` at the end of each hash. They seem to reflect some sort of ordering.
+- Notice the trailing `0` at the end of each hash. They seem to reflect some sort of ordering. (_Needed a hint to get this..._)
 
 ```sh
 $ sha256sum *.bin
