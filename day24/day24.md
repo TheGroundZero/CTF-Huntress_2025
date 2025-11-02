@@ -16,7 +16,7 @@
 > 
 > Please be sure to analyze these files within an isolated virtual machine.
 
-
+Lots of decoding and de-arming Powershell `iex`.
 
 gecko_2 mentions `flagvalue = objecttest + consumerfashion + uniquerebel`
 
