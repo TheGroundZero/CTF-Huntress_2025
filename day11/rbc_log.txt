@@ -1,0 +1,833 @@
+RBCmd version 1.6.1.0
+
+Author: Eric Zimmerman (saericzimmerman@gmail.com)
+https://github.com/EricZimmerman/RBCmd
+
+Command line: -d trashcan
+
+Looking for files in trashcan
+
+Found 117 files. Processing...
+
+Source file: trashcan\$I01XCGF.txt
+
+Version: 2 (Windows 10/11)
+File size: 49 (49B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:03
+
+Source file: trashcan\$I08ZI07.txt
+
+Version: 2 (Windows 10/11)
+File size: 50 (50B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:04
+
+Source file: trashcan\$I0AP14L.txt
+
+Version: 2 (Windows 10/11)
+File size: 100 (100B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:11
+
+Source file: trashcan\$I17RAD1.txt
+
+Version: 2 (Windows 10/11)
+File size: 53 (53B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:01
+
+Source file: trashcan\$I198LLE.txt
+
+Version: 2 (Windows 10/11)
+File size: 101 (101B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:00
+
+Source file: trashcan\$I1D6OCR.txt
+
+Version: 2 (Windows 10/11)
+File size: 108 (108B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:41
+
+Source file: trashcan\$I1MMUNX.txt
+
+Version: 2 (Windows 10/11)
+File size: 103 (103B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:43
+
+Source file: trashcan\$I1WD5RF.txt
+
+Version: 2 (Windows 10/11)
+File size: 100 (100B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:57
+
+Source file: trashcan\$I2CVFM2.txt
+
+Version: 2 (Windows 10/11)
+File size: 56 (56B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:02
+
+Source file: trashcan\$I2FNXOW.txt
+
+Version: 2 (Windows 10/11)
+File size: 48 (48B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:10
+
+Source file: trashcan\$I2J48PI.txt
+
+Version: 2 (Windows 10/11)
+File size: 98 (98B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:50
+
+Source file: trashcan\$I2ZP91D.txt
+
+Version: 2 (Windows 10/11)
+File size: 50 (50B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:49
+
+Source file: trashcan\$I3B7EP8.txt
+
+Version: 2 (Windows 10/11)
+File size: 56 (56B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:08
+
+Source file: trashcan\$I3O4FNO.txt
+
+Version: 2 (Windows 10/11)
+File size: 54 (54B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:53
+
+Source file: trashcan\$I3Y2C18.txt
+
+Version: 2 (Windows 10/11)
+File size: 108 (108B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:41
+
+Source file: trashcan\$I467CFX.txt
+
+Version: 2 (Windows 10/11)
+File size: 100 (100B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:11
+
+Source file: trashcan\$I4S3J0O.txt
+
+Version: 2 (Windows 10/11)
+File size: 55 (55B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:54
+
+Source file: trashcan\$I4VAGUQ.txt
+
+Version: 2 (Windows 10/11)
+File size: 125 (125B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:17
+
+Source file: trashcan\$I4VJ9VP.txt
+
+Version: 2 (Windows 10/11)
+File size: 50 (50B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:47
+
+Source file: trashcan\$I59AMQZ.txt
+
+Version: 2 (Windows 10/11)
+File size: 50 (50B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:47
+
+Source file: trashcan\$I5F20WX.txt
+
+Version: 2 (Windows 10/11)
+File size: 48 (48B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:51
+
+Source file: trashcan\$I5HCDNO.txt
+
+Version: 2 (Windows 10/11)
+File size: 48 (48B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:10
+
+Source file: trashcan\$I5RPN3M.txt
+
+Version: 2 (Windows 10/11)
+File size: 51 (51B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:14
+
+Source file: trashcan\$I60PUB8.txt
+
+Version: 2 (Windows 10/11)
+File size: 101 (101B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:13
+
+Source file: trashcan\$I61YGX7.txt
+
+Version: 2 (Windows 10/11)
+File size: 55 (55B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:06
+
+Source file: trashcan\$I65140O.txt
+
+Version: 2 (Windows 10/11)
+File size: 57 (57B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:16
+
+Source file: trashcan\$I6676MD.txt
+
+Version: 2 (Windows 10/11)
+File size: 53 (53B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:01
+
+Source file: trashcan\$I7MXUTD.txt
+
+Version: 2 (Windows 10/11)
+File size: 53 (53B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:12
+
+Source file: trashcan\$I7QCZXB.txt
+
+Version: 2 (Windows 10/11)
+File size: 55 (55B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:54
+
+Source file: trashcan\$I7UPDZU.txt
+
+Version: 2 (Windows 10/11)
+File size: 49 (49B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:03
+
+Source file: trashcan\$I8Q6O5D.txt
+
+Version: 2 (Windows 10/11)
+File size: 97 (97B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:42
+
+Source file: trashcan\$I90UOKS.txt
+
+Version: 2 (Windows 10/11)
+File size: 49 (49B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:58
+
+Source file: trashcan\$I99VSUL.txt
+
+Version: 2 (Windows 10/11)
+File size: 51 (51B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:14
+
+Source file: trashcan\$I9PGBL6.txt
+
+Version: 2 (Windows 10/11)
+File size: 48 (48B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:51
+
+Source file: trashcan\$IA88SVT.txt
+
+Version: 2 (Windows 10/11)
+File size: 98 (98B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:50
+
+Source file: trashcan\$IABA5GX.txt
+
+Version: 2 (Windows 10/11)
+File size: 57 (57B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:16
+
+Source file: trashcan\$IAKHV8Y.txt
+
+Version: 2 (Windows 10/11)
+File size: 56 (56B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:08
+
+Source file: trashcan\$IAZPA8T.txt
+
+Version: 2 (Windows 10/11)
+File size: 49 (49B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:58
+
+Source file: trashcan\$IC04FJS.txt
+
+Version: 2 (Windows 10/11)
+File size: 123 (123B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:44
+
+Source file: trashcan\$ICVE4M2.txt
+
+Version: 2 (Windows 10/11)
+File size: 101 (101B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:56
+
+Source file: trashcan\$ID557GC.txt
+
+Version: 2 (Windows 10/11)
+File size: 49 (49B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:55
+
+Source file: trashcan\$IDEBQ1M.txt
+
+Version: 2 (Windows 10/11)
+File size: 48 (48B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:51
+
+Source file: trashcan\$IDWR2DY.txt
+
+Version: 2 (Windows 10/11)
+File size: 48 (48B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:10
+
+Source file: trashcan\$IE0RMKA.txt
+
+Version: 2 (Windows 10/11)
+File size: 53 (53B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:01
+
+Source file: trashcan\$IEFXDY8.txt
+
+Version: 2 (Windows 10/11)
+File size: 108 (108B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:41
+
+Source file: trashcan\$IEXEX7I.txt
+
+Version: 2 (Windows 10/11)
+File size: 101 (101B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:13
+
+Source file: trashcan\$IEYL8JP.txt
+
+Version: 2 (Windows 10/11)
+File size: 98 (98B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:48
+
+Source file: trashcan\$IFRUSE0.txt
+
+Version: 2 (Windows 10/11)
+File size: 56 (56B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:07
+
+Source file: trashcan\$IFUV73N.txt
+
+Version: 2 (Windows 10/11)
+File size: 54 (54B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:05
+
+Source file: trashcan\$IG64RJD.txt
+
+Version: 2 (Windows 10/11)
+File size: 55 (55B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:54
+
+Source file: trashcan\$IG8TC80.txt
+
+Version: 2 (Windows 10/11)
+File size: 100 (100B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:57
+
+Source file: trashcan\$IGUW5S7.txt
+
+Version: 2 (Windows 10/11)
+File size: 101 (101B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:00
+
+Source file: trashcan\$IHE2HRX.txt
+
+Version: 2 (Windows 10/11)
+File size: 101 (101B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:56
+
+Source file: trashcan\$IHRXQ2Y.txt
+
+Version: 2 (Windows 10/11)
+File size: 57 (57B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:16
+
+Source file: trashcan\$IIENSHP.txt
+
+Version: 2 (Windows 10/11)
+File size: 103 (103B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:43
+
+Source file: trashcan\$IIIY075.txt
+
+Version: 2 (Windows 10/11)
+File size: 56 (56B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:07
+
+Source file: trashcan\$IISFJJQ.txt
+
+Version: 2 (Windows 10/11)
+File size: 97 (97B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:42
+
+Source file: trashcan\$IIYLT3Z.txt
+
+Version: 2 (Windows 10/11)
+File size: 98 (98B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:48
+
+Source file: trashcan\$IJ9U0RR.txt
+
+Version: 2 (Windows 10/11)
+File size: 103 (103B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:43
+
+Source file: trashcan\$IJUUXYN.txt
+
+Version: 2 (Windows 10/11)
+File size: 101 (101B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:56
+
+Source file: trashcan\$IJWBEUE.txt
+
+Version: 2 (Windows 10/11)
+File size: 123 (123B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:44
+
+Source file: trashcan\$IK9LJEF.txt
+
+Version: 2 (Windows 10/11)
+File size: 101 (101B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:59
+
+Source file: trashcan\$IKK9TWO.txt
+
+Version: 2 (Windows 10/11)
+File size: 53 (53B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:09
+
+Source file: trashcan\$IKQ5M0F.txt
+
+Version: 2 (Windows 10/11)
+File size: 53 (53B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:12
+
+Source file: trashcan\$IL2QDPK.txt
+
+Version: 2 (Windows 10/11)
+File size: 55 (55B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:06
+
+Source file: trashcan\$IL4WLXW.txt
+
+Version: 2 (Windows 10/11)
+File size: 50 (50B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:04
+
+Source file: trashcan\$ILD51DG.txt
+
+Version: 2 (Windows 10/11)
+File size: 54 (54B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:05
+
+Source file: trashcan\$ILN2HDS.txt
+
+Version: 2 (Windows 10/11)
+File size: 51 (51B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:14
+
+Source file: trashcan\$ILRXLH5.txt
+
+Version: 2 (Windows 10/11)
+File size: 56 (56B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:07
+
+Source file: trashcan\$IM7QAYI.txt
+
+Version: 2 (Windows 10/11)
+File size: 49 (49B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:45
+
+Source file: trashcan\$IMU3AKY.txt
+
+Version: 2 (Windows 10/11)
+File size: 97 (97B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:42
+
+Source file: trashcan\$IMZ20SR.txt
+
+Version: 2 (Windows 10/11)
+File size: 101 (101B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:59
+
+Source file: trashcan\$IN4C62C.txt
+
+Version: 2 (Windows 10/11)
+File size: 125 (125B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:17
+
+Source file: trashcan\$IND6VW0.txt
+
+Version: 2 (Windows 10/11)
+File size: 100 (100B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:11
+
+Source file: trashcan\$ING16RB.txt
+
+Version: 2 (Windows 10/11)
+File size: 50 (50B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:15
+
+Source file: trashcan\$INU5TNU.txt
+
+Version: 2 (Windows 10/11)
+File size: 49 (49B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:45
+
+Source file: trashcan\$IO7IO01.txt
+
+Version: 2 (Windows 10/11)
+File size: 10 (10B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:18
+
+Source file: trashcan\$IOFYR05.txt
+
+Version: 2 (Windows 10/11)
+File size: 56 (56B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:02
+
+Source file: trashcan\$IOSGXAZ.txt
+
+Version: 2 (Windows 10/11)
+File size: 53 (53B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:52
+
+Source file: trashcan\$IOXKN7X.txt
+
+Version: 2 (Windows 10/11)
+File size: 56 (56B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:08
+
+Source file: trashcan\$IOYHHQ5.txt
+
+Version: 2 (Windows 10/11)
+File size: 50 (50B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:49
+
+Source file: trashcan\$IPD4HRC.txt
+
+Version: 2 (Windows 10/11)
+File size: 49 (49B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:45
+
+Source file: trashcan\$IPDV01V.txt
+
+Version: 2 (Windows 10/11)
+File size: 101 (101B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:59
+
+Source file: trashcan\$IPMSABA.txt
+
+Version: 2 (Windows 10/11)
+File size: 49 (49B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:55
+
+Source file: trashcan\$IPWI3VK.txt
+
+Version: 2 (Windows 10/11)
+File size: 50 (50B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:49
+
+Source file: trashcan\$IQ6XS48.txt
+
+Version: 2 (Windows 10/11)
+File size: 49 (49B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:58
+
+Source file: trashcan\$IQ9QLU0.txt
+
+Version: 2 (Windows 10/11)
+File size: 50 (50B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:15
+
+Source file: trashcan\$IQPFIEQ.txt
+
+Version: 2 (Windows 10/11)
+File size: 53 (53B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:52
+
+Source file: trashcan\$IQQAA2F.txt
+
+Version: 2 (Windows 10/11)
+File size: 100 (100B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:46
+
+Source file: trashcan\$IR2JCOS.txt
+
+Version: 2 (Windows 10/11)
+File size: 50 (50B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:47
+
+Source file: trashcan\$IS4YB00.txt
+
+Version: 2 (Windows 10/11)
+File size: 10 (10B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:18
+
+Source file: trashcan\$IS67SUB.txt
+
+Version: 2 (Windows 10/11)
+File size: 49 (49B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:55
+
+Source file: trashcan\$ISBYUOH.txt
+
+Version: 2 (Windows 10/11)
+File size: 53 (53B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:12
+
+Source file: trashcan\$ISTAZD1.txt
+
+Version: 2 (Windows 10/11)
+File size: 101 (101B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:13
+
+Source file: trashcan\$ISXWEK6.txt
+
+Version: 2 (Windows 10/11)
+File size: 54 (54B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:53
+
+Source file: trashcan\$ITB15DJ.txt
+
+Version: 2 (Windows 10/11)
+File size: 125 (125B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:17
+
+Source file: trashcan\$ITE5TYG.txt
+
+Version: 2 (Windows 10/11)
+File size: 102 (102B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:40
+
+Source file: trashcan\$ITMVJR4.txt
+
+Version: 2 (Windows 10/11)
+File size: 102 (102B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:40
+
+Source file: trashcan\$ITUQ7CQ.txt
+
+Version: 2 (Windows 10/11)
+File size: 98 (98B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:48
+
+Source file: trashcan\$IU5E39M.txt
+
+Version: 2 (Windows 10/11)
+File size: 123 (123B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:44
+
+Source file: trashcan\$IUDDG43.txt
+
+Version: 2 (Windows 10/11)
+File size: 53 (53B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:09
+
+Source file: trashcan\$IUG82GT.txt
+
+Version: 2 (Windows 10/11)
+File size: 10 (10B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:18
+
+Source file: trashcan\$IUIEHU7.txt
+
+Version: 2 (Windows 10/11)
+File size: 98 (98B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:50
+
+Source file: trashcan\$IUQNBS2.txt
+
+Version: 2 (Windows 10/11)
+File size: 53 (53B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:09
+
+Source file: trashcan\$IUSDLBT.txt
+
+Version: 2 (Windows 10/11)
+File size: 100 (100B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:46
+
+Source file: trashcan\$IUYP5MU.txt
+
+Version: 2 (Windows 10/11)
+File size: 54 (54B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:05
+
+Source file: trashcan\$IV05A2U.txt
+
+Version: 2 (Windows 10/11)
+File size: 101 (101B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:00
+
+Source file: trashcan\$IV6X20I.txt
+
+Version: 2 (Windows 10/11)
+File size: 49 (49B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:03
+
+Source file: trashcan\$IW14HF1.txt
+
+Version: 2 (Windows 10/11)
+File size: 100 (100B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:57
+
+Source file: trashcan\$IW1WPZX.txt
+
+Version: 2 (Windows 10/11)
+File size: 102 (102B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:40
+
+Source file: trashcan\$IWKOHFD.txt
+
+Version: 2 (Windows 10/11)
+File size: 56 (56B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:02
+
+Source file: trashcan\$IWS5CL5.txt
+
+Version: 2 (Windows 10/11)
+File size: 50 (50B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:04
+
+Source file: trashcan\$IXEGH08.txt
+
+Version: 2 (Windows 10/11)
+File size: 100 (100B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:46
+
+Source file: trashcan\$IXWYRKV.txt
+
+Version: 2 (Windows 10/11)
+File size: 50 (50B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:15
+
+Source file: trashcan\$IYQJIUH.txt
+
+Version: 2 (Windows 10/11)
+File size: 53 (53B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:52
+
+Source file: trashcan\$IZ3RIQE.txt
+
+Version: 2 (Windows 10/11)
+File size: 55 (55B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:40:06
+
+Source file: trashcan\$IZ9EJJK.txt
+
+Version: 2 (Windows 10/11)
+File size: 54 (54B)
+File name: C:\Users\flag\Desktop\flag.txt
+Deleted on: 1642-12-14 09:39:53
+
+
+Processed 117 out of 117 files in 0.0530 seconds
+
