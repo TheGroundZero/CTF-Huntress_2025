@@ -1,7 +1,7 @@
 huntress-ctf-2025.ovpn
-**/*.zip
-**/*.7z
-day01/qrception/captcha3_zip/*
-!day01/qrception/captcha3_zip/output.py
-day06/emotional/node_modules
-day11/trashcan/*.txt
+
+# Anything that is not a writeup
+**/*
+!**/*.md
+
+!.gitignore

@@ -24,3 +24,5 @@
 >
 > The archive password is `i_forgot`.
 
+The zip contains a `flag.enc` with unreadable data and a `memdump.dmp`.
+

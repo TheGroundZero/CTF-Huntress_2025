@@ -14,3 +14,4 @@ Password: HuntressCTF2025
 ```
 
 Haha, `root canal` :P
+Nice inside joke

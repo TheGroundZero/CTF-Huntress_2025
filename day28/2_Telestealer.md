@@ -1,13 +1,3 @@
-# Rust Tickler 2
-
-| Category               | Author     |
-| ---------------------- | ---------- |
-| ⚙️ Reverse Engineering | @Nordgaren |
-
-> You all looked like you were having so much fun reverse engineering Rust code... why not do it again!?
-
-
-
 # Telestealer
 
 | Category   | Author      |
@@ -21,6 +11,9 @@
 > **NOTE**
 > 
 > The password to the ZIP archive is `telestealer`
+
+**NOTE**  
+The challenge was updated after launch, that's why I have a v1 and v2 here.
 
 - Download is a JavaScript with a bunch of base64 encoded data which gets passed along to Powershell.
 - Base64 decoded text contains base64 encoded parameters `$key`, `$iv` which are used to decode `$cipher`. The output gets written to an exe which then is then executed.

@@ -1,4 +1,3 @@
-
 # Follow The Money
 
 | Category | Author |
