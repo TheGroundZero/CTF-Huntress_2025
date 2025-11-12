@@ -1,0 +1,32 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2025-10-07 21:25:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2025-10-07 21:25:09 172.31.9.222 GET / - 41346 - 103.125.233.27 Mozilla/5.0+(X11;+Linux+x86_64;+rv:128.0)+Gecko/20100101+Firefox/128.0 - 200 0 0 435
+2025-10-07 21:25:09 172.31.9.222 GET /favicon.ico - 41346 - 103.125.233.27 Mozilla/5.0+(X11;+Linux+x86_64;+rv:128.0)+Gecko/20100101+Firefox/128.0 http://18.175.56.171:41346/ 404 0 64 373
+2025-10-07 21:25:11 172.31.9.222 GET /View.aspx file=web.config 41346 - 103.125.233.27 Mozilla/5.0+(X11;+Linux+x86_64;+rv:128.0)+Gecko/20100101+Firefox/128.0 http://18.175.56.171:41346/ 200 0 0 382
+2025-10-07 21:25:16 172.31.9.222 GET /robots.txt - 41346 - 103.125.233.27 Mozilla/5.0+(X11;+Linux+x86_64;+rv:128.0)+Gecko/20100101+Firefox/128.0 - 404 0 2 371
+2025-10-07 21:25:20 172.31.9.222 GET /.env - 41346 - 103.125.233.27 Mozilla/5.0+(X11;+Linux+x86_64;+rv:128.0)+Gecko/20100101+Firefox/128.0 - 404 0 2 371
+2025-10-07 21:25:25 172.31.9.222 GET /uploads/ - 41346 - 103.125.233.27 Mozilla/5.0+(X11;+Linux+x86_64;+rv:128.0)+Gecko/20100101+Firefox/128.0 - 200 0 0 374
+2025-10-07 21:25:28 172.31.9.222 GET /uploads/test - 41346 - 103.125.233.27 Mozilla/5.0+(X11;+Linux+x86_64;+rv:128.0)+Gecko/20100101+Firefox/128.0 - 404 0 2 372
+2025-10-07 21:25:31 172.31.9.222 GET / - 41346 - 103.125.233.27 Mozilla/5.0+(X11;+Linux+x86_64;+rv:128.0)+Gecko/20100101+Firefox/128.0 - 200 0 0 372
+2025-10-07 21:25:38 172.31.9.222 POST / - 41346 - 103.125.233.27 Mozilla/5.0+(X11;+Linux+x86_64;+rv:128.0)+Gecko/20100101+Firefox/128.0 http://18.175.56.171:41346/ 200 0 0 1510
+2025-10-07 21:25:44 172.31.9.222 GET /View.aspx file=revshell.aspx 41346 - 103.125.233.27 Mozilla/5.0+(X11;+Linux+x86_64;+rv:128.0)+Gecko/20100101+Firefox/128.0 http://18.175.56.171:41346/ 200 0 0 1149
+2025-10-07 21:25:52 172.31.9.222 GET /uploads/revshell.aspx - 41346 - 103.125.233.27 Mozilla/5.0+(X11;+Linux+x86_64;+rv:128.0)+Gecko/20100101+Firefox/128.0 - 200 0 0 975
+2025-10-07 21:26:03 172.31.9.222 POST /uploads/revshell.aspx - 41346 - 103.125.233.27 Mozilla/5.0+(X11;+Linux+x86_64;+rv:128.0)+Gecko/20100101+Firefox/128.0 http://18.175.56.171:41346/uploads/revshell.aspx 200 0 0 373
+2025-10-07 21:26:07 172.31.9.222 POST /uploads/revshell.aspx - 41346 - 103.125.233.27 Mozilla/5.0+(X11;+Linux+x86_64;+rv:128.0)+Gecko/20100101+Firefox/128.0 http://18.175.56.171:41346/uploads/revshell.aspx 200 0 0 393
+2025-10-07 21:26:21 172.31.9.222 POST /uploads/revshell.aspx - 41346 - 103.125.233.27 Mozilla/5.0+(X11;+Linux+x86_64;+rv:128.0)+Gecko/20100101+Firefox/128.0 http://18.175.56.171:41346/uploads/revshell.aspx 200 0 0 377
+2025-10-07 21:26:26 172.31.9.222 POST /uploads/revshell.aspx - 41346 - 103.125.233.27 Mozilla/5.0+(X11;+Linux+x86_64;+rv:128.0)+Gecko/20100101+Firefox/128.0 http://18.175.56.171:41346/uploads/revshell.aspx 200 0 0 434
+2025-10-07 21:26:32 172.31.9.222 POST /uploads/revshell.aspx - 41346 - 103.125.233.27 Mozilla/5.0+(X11;+Linux+x86_64;+rv:128.0)+Gecko/20100101+Firefox/128.0 http://18.175.56.171:41346/uploads/revshell.aspx 200 0 0 1253
+2025-10-07 21:26:37 172.31.9.222 POST /uploads/revshell.aspx - 41346 - 103.125.233.27 Mozilla/5.0+(X11;+Linux+x86_64;+rv:128.0)+Gecko/20100101+Firefox/128.0 http://18.175.56.171:41346/uploads/revshell.aspx 200 0 0 430
+2025-10-07 21:26:46 172.31.9.222 POST /uploads/revshell.aspx - 41346 - 103.125.233.27 Mozilla/5.0+(X11;+Linux+x86_64;+rv:128.0)+Gecko/20100101+Firefox/128.0 http://18.175.56.171:41346/uploads/revshell.aspx 200 0 0 377
+2025-10-07 21:26:56 172.31.9.222 POST /uploads/revshell.aspx - 41346 - 103.125.233.27 Mozilla/5.0+(X11;+Linux+x86_64;+rv:128.0)+Gecko/20100101+Firefox/128.0 http://18.175.56.171:41346/uploads/revshell.aspx 200 0 0 377
+2025-10-07 21:27:39 172.31.9.222 POST /uploads/revshell.aspx - 41346 - 103.125.233.27 Mozilla/5.0+(X11;+Linux+x86_64;+rv:128.0)+Gecko/20100101+Firefox/128.0 http://18.175.56.171:41346/uploads/revshell.aspx 200 0 0 406
+2025-10-07 21:27:44 172.31.9.222 POST /uploads/revshell.aspx - 41346 - 103.125.233.27 Mozilla/5.0+(X11;+Linux+x86_64;+rv:128.0)+Gecko/20100101+Firefox/128.0 http://18.175.56.171:41346/uploads/revshell.aspx 200 0 0 379
+2025-10-07 21:29:59 172.31.9.222 POST /uploads/revshell.aspx - 41346 - 103.125.233.27 Mozilla/5.0+(X11;+Linux+x86_64;+rv:128.0)+Gecko/20100101+Firefox/128.0 http://18.175.56.171:41346/uploads/revshell.aspx 200 0 0 375
+2025-10-07 21:30:08 172.31.9.222 POST /uploads/revshell.aspx - 41346 - 103.125.233.27 Mozilla/5.0+(X11;+Linux+x86_64;+rv:128.0)+Gecko/20100101+Firefox/128.0 http://18.175.56.171:41346/uploads/revshell.aspx 200 0 0 377
+2025-10-07 21:30:40 172.31.9.222 POST /uploads/revshell.aspx - 41346 - 103.125.233.27 Mozilla/5.0+(X11;+Linux+x86_64;+rv:128.0)+Gecko/20100101+Firefox/128.0 http://18.175.56.171:41346/uploads/revshell.aspx 200 0 0 374
+2025-10-07 21:30:44 172.31.9.222 POST /uploads/revshell.aspx - 41346 - 103.125.233.27 Mozilla/5.0+(X11;+Linux+x86_64;+rv:128.0)+Gecko/20100101+Firefox/128.0 http://18.175.56.171:41346/uploads/revshell.aspx 200 0 0 378
+2025-10-07 21:30:48 172.31.9.222 POST /uploads/revshell.aspx - 41346 - 103.125.233.27 Mozilla/5.0+(X11;+Linux+x86_64;+rv:128.0)+Gecko/20100101+Firefox/128.0 http://18.175.56.171:41346/uploads/revshell.aspx 200 0 0 375
+2025-10-07 21:31:36 172.31.9.222 POST /uploads/revshell.aspx - 41346 - 103.125.233.27 Mozilla/5.0+(X11;+Linux+x86_64;+rv:128.0)+Gecko/20100101+Firefox/128.0 http://18.175.56.171:41346/uploads/revshell.aspx 200 0 0 23548
+2025-10-07 21:32:10 172.31.9.222 POST /uploads/revshell.aspx - 41346 - 103.125.233.27 Mozilla/5.0+(X11;+Linux+x86_64;+rv:128.0)+Gecko/20100101+Firefox/128.0 http://18.175.56.171:41346/uploads/revshell.aspx 200 0 0 377

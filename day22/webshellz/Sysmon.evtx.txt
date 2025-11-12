@@ -1,0 +1,2236 @@
+evtxexport 20181227
+
+Event number			: 1
+Written time			: Oct 07, 2025 21:20:19.551982500 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:20:06.832
+String: 3			: {8EED9800-8406-68E5-3801-000000006703}
+String: 4			: 880
+String: 5			: C:\Program Files\Wireshark\dumpcap.exe
+String: 6			: 4.4.9
+String: 7			: Dumpcap
+String: 8			: Dumpcap
+String: 9			: The Wireshark developer community
+String: 10			: Dumpcap.exe
+String: 11			: "C:\Program Files\Wireshark\dumpcap.exe" --log-level MESSAGE -F pcapng -i \Device\NPF_{54B31D7E-36BF-4BBE-9AB2-106A939CD78C} --ifdescr Ethernet -y EN10MB --signal-pipe 4968 -Z 1776
+String: 12			: C:\Program Files\Wireshark\
+String: 13			: EC2AMAZ-AGR00JO\Administrator
+String: 14			: {8EED9800-8181-68E5-1AFA-020000000000}
+String: 15			: 0x000000000002fa1a
+String: 16			: 2
+String: 17			: High
+String: 18			: MD5=B1CF8C695330CB4C34C40B536BF0B58C,SHA256=C25B560313BC9B3FC6A8D7C32A5CB3F97D9A89918A1F3C698DC96A4CF58A794A,IMPHASH=676B7EB77D9BCEC59100AF330FEF41B7
+String: 19			: {8EED9800-821E-68E5-EC00-000000006703}
+String: 20			: 4968
+String: 21			: C:\Program Files\Wireshark\Wireshark.exe
+String: 22			: "C:\Program Files\Wireshark\Wireshark.exe" 
+String: 23			: EC2AMAZ-AGR00JO\Administrator
+
+Event number			: 2
+Written time			: Oct 07, 2025 21:20:27.683125700 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:20:19.545
+String: 3			: {8EED9800-8413-68E5-3A01-000000006703}
+String: 4			: 3480
+String: 5			: C:\Windows\System32\notepad.exe
+String: 6			: 10.0.17763.5328 (WinBuild.160101.0800)
+String: 7			: Notepad
+String: 8			: Microsoft® Windows® Operating System
+String: 9			: Microsoft Corporation
+String: 10			: NOTEPAD.EXE
+String: 11			: "C:\Windows\system32\NOTEPAD.EXE" C:\inetpub\logs\LogFiles\W3SVC2\u_ex251007.log
+String: 12			: C:\inetpub\logs\LogFiles\W3SVC2\
+String: 13			: EC2AMAZ-AGR00JO\Administrator
+String: 14			: {8EED9800-8181-68E5-1AFA-020000000000}
+String: 15			: 0x000000000002fa1a
+String: 16			: 2
+String: 17			: High
+String: 18			: MD5=C5B188AC73D5DCA677CF5712F65DE5AF,SHA256=714C533967FE9EA1C8AB7A9B31CFA13F0C1CEEBCD4BF4D365F9AE8E95764B983,IMPHASH=8F7DE39962C75ECC68F347EB42D61B66
+String: 19			: {8EED9800-8183-68E5-7D00-000000006703}
+String: 20			: 2924
+String: 21			: C:\Windows\explorer.exe
+String: 22			: C:\Windows\Explorer.EXE
+String: 23			: EC2AMAZ-AGR00JO\Administrator
+
+Event number			: 3
+Written time			: Oct 07, 2025 21:20:27.777942600 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:20:27.677
+String: 3			: {8EED9800-841B-68E5-3C01-000000006703}
+String: 4			: 6036
+String: 5			: C:\Windows\System32\inetsrv\InetMgr.exe
+String: 6			: 10.0.17763.5830 (WinBuild.160101.0800)
+String: 7			: IIS Manager
+String: 8			: Internet Information Services
+String: 9			: Microsoft Corporation
+String: 10			: InetMgr.exe
+String: 11			: "C:\Windows\system32\inetsrv\InetMgr.exe" 
+String: 12			: C:\Windows\system32\
+String: 13			: EC2AMAZ-AGR00JO\Administrator
+String: 14			: {8EED9800-8181-68E5-1AFA-020000000000}
+String: 15			: 0x000000000002fa1a
+String: 16			: 2
+String: 17			: High
+String: 18			: MD5=8FF3487302F811FA4CF958EF9B9DCC27,SHA256=1EFD520FF5B07C25C3B279F9297B3C10AC4F551182D941918C283D533820511C,IMPHASH=385203873B896522C9618B22DA6CD35D
+String: 19			: {8EED9800-8183-68E5-7D00-000000006703}
+String: 20			: 2924
+String: 21			: C:\Windows\explorer.exe
+String: 22			: C:\Windows\Explorer.EXE
+String: 23			: EC2AMAZ-AGR00JO\Administrator
+
+Event number			: 4
+Written time			: Oct 07, 2025 21:20:55.779028200 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000003 (3)
+Number of strings		: 18
+String: 1			: RDP
+String: 2			: 2025-10-07 21:20:26.050
+String: 3			: {8EED9800-8142-68E5-1300-000000006703}
+String: 4			: 912
+String: 5			: C:\Windows\System32\svchost.exe
+String: 6			: NT AUTHORITY\NETWORK SERVICE
+String: 7			: tcp
+String: 8			: false
+String: 9			: false
+String: 10			: 13.38.65.236
+String: 11			: ec2-13-38-65-236.eu-west-3.compute.amazonaws.com
+String: 12			: 64402
+String: 13			: -
+String: 14			: false
+String: 15			: 172.31.9.222
+String: 16			: EC2AMAZ-AGR00JO.eu-west-2.compute.internal
+String: 17			: 3389
+String: 18			: ms-wbt-server
+
+Event number			: 5
+Written time			: Oct 07, 2025 21:20:59.904114700 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:20:55.778
+String: 3			: {8EED9800-8437-68E5-3F01-000000006703}
+String: 4			: 5544
+String: 5			: C:\Program Files\Wireshark\dumpcap.exe
+String: 6			: 4.4.9
+String: 7			: Dumpcap
+String: 8			: Dumpcap
+String: 9			: The Wireshark developer community
+String: 10			: Dumpcap.exe
+String: 11			: "C:\Program Files\Wireshark\dumpcap.exe" --log-level MESSAGE -F pcapng -i \Device\NPF_{54B31D7E-36BF-4BBE-9AB2-106A939CD78C} --ifdescr Ethernet -y EN10MB --signal-pipe 4968 -Z 1452
+String: 12			: C:\Program Files\Wireshark\
+String: 13			: EC2AMAZ-AGR00JO\Administrator
+String: 14			: {8EED9800-8181-68E5-1AFA-020000000000}
+String: 15			: 0x000000000002fa1a
+String: 16			: 2
+String: 17			: High
+String: 18			: MD5=B1CF8C695330CB4C34C40B536BF0B58C,SHA256=C25B560313BC9B3FC6A8D7C32A5CB3F97D9A89918A1F3C698DC96A4CF58A794A,IMPHASH=676B7EB77D9BCEC59100AF330FEF41B7
+String: 19			: {8EED9800-821E-68E5-EC00-000000006703}
+String: 20			: 4968
+String: 21			: C:\Program Files\Wireshark\Wireshark.exe
+String: 22			: "C:\Program Files\Wireshark\Wireshark.exe" 
+String: 23			: EC2AMAZ-AGR00JO\Administrator
+
+Event number			: 6
+Written time			: Oct 07, 2025 21:20:59.920008200 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:20:59.900
+String: 3			: {8EED9800-843B-68E5-4101-000000006703}
+String: 4			: 5380
+String: 5			: C:\Windows\System32\LogonUI.exe
+String: 6			: 10.0.17763.1 (WinBuild.160101.0800)
+String: 7			: Windows Logon User Interface Host
+String: 8			: Microsoft® Windows® Operating System
+String: 9			: Microsoft Corporation
+String: 10			: logonui.exe
+String: 11			: "LogonUI.exe" /flags:0x0 /state0:0xa3942855 /state1:0x41c64e6d
+String: 12			: C:\Windows\system32\
+String: 13			: NT AUTHORITY\SYSTEM
+String: 14			: {8EED9800-8141-68E5-E703-000000000000}
+String: 15			: 0x00000000000003e7
+String: 16			: 2
+String: 17			: System
+String: 18			: MD5=33F89DD9629CB0422A2C17268376232D,SHA256=9358EF8CB7FB08581D74274005263BD8FA2E6E0FC443930B25FD345CF6CE9071,IMPHASH=B9B0B64B08B38276711093CA94348D39
+String: 19			: {8EED9800-8180-68E5-6600-000000006703}
+String: 20			: 4560
+String: 21			: C:\Windows\System32\winlogon.exe
+String: 22			: winlogon.exe
+String: 23			: NT AUTHORITY\SYSTEM
+
+Event number			: 7
+Written time			: Oct 07, 2025 21:21:00.086029200 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:20:59.918
+String: 3			: {8EED9800-843B-68E5-4201-000000006703}
+String: 4			: 5816
+String: 5			: C:\Windows\System32\TSTheme.exe
+String: 6			: 10.0.17763.1697 (WinBuild.160101.0800)
+String: 7			: TSTheme Server Module
+String: 8			: Microsoft® Windows® Operating System
+String: 9			: Microsoft Corporation
+String: 10			: TSThemeS.exe
+String: 11			: C:\Windows\system32\TSTheme.exe -Embedding
+String: 12			: C:\Windows\system32\
+String: 13			: EC2AMAZ-AGR00JO\Administrator
+String: 14			: {8EED9800-8181-68E5-1AFA-020000000000}
+String: 15			: 0x000000000002fa1a
+String: 16			: 2
+String: 17			: High
+String: 18			: MD5=678B049F46799F3FA858CE79376EB7B5,SHA256=C1879B15C38D1C9BB86BCFD08A0B7D8A0809C553F8F1985659D7DA0C883EA4F7,IMPHASH=B70390445EE6DE87340DFE5CB7439893
+String: 19			: {8EED9800-8142-68E5-0E00-000000006703}
+String: 20			: 916
+String: 21			: C:\Windows\System32\svchost.exe
+String: 22			: C:\Windows\system32\svchost.exe -k DcomLaunch -p
+String: 23			: NT AUTHORITY\SYSTEM
+
+Event number			: 8
+Written time			: Oct 07, 2025 21:21:00.156947100 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:21:00.084
+String: 3			: {8EED9800-843C-68E5-4301-000000006703}
+String: 4			: 500
+String: 5			: C:\Windows\System32\taskhostw.exe
+String: 6			: 10.0.17763.1852 (WinBuild.160101.0800)
+String: 7			: Host Process for Windows Tasks
+String: 8			: Microsoft® Windows® Operating System
+String: 9			: Microsoft Corporation
+String: 10			: taskhostw.exe
+String: 11			: taskhostw.exe KEYROAMING
+String: 12			: C:\Windows\system32\
+String: 13			: EC2AMAZ-AGR00JO\Administrator
+String: 14			: {8EED9800-8181-68E5-1AFA-020000000000}
+String: 15			: 0x000000000002fa1a
+String: 16			: 2
+String: 17			: High
+String: 18			: MD5=8BD7B08DA6BCA54DF9B595E4D9281BEB,SHA256=DE85F29A8BC7219F10A4AC88654C3901ABC329D7505B21CD95CBF780D1EBCCF4,IMPHASH=9839C7FD9649496B162F72128209528A
+String: 19			: {8EED9800-8143-68E5-2400-000000006703}
+String: 20			: 1652
+String: 21			: C:\Windows\System32\svchost.exe
+String: 22			: C:\Windows\system32\svchost.exe -k netsvcs -p -s Schedule
+String: 23			: NT AUTHORITY\SYSTEM
+
+Event number			: 9
+Written time			: Oct 07, 2025 21:21:00.170418900 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000d (13)
+Number of strings		: 9
+String: 1			: InvDB-DriverVer
+String: 2			: SetValue
+String: 3			: 2025-10-07 21:21:00.146
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Printers\Microsoft Print to PDF (redirected 2)\DsDriver\driverVersion
+String: 8			: DWORD (0x00000401)
+String: 9			: NT AUTHORITY\SYSTEM
+
+Event number			: 10
+Written time			: Oct 07, 2025 21:21:00.172890700 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000c (12)
+Number of strings		: 8
+String: 1			: Context,DeviceConnectedOrUpdated
+String: 2			: DeleteValue
+String: 3			: 2025-10-07 21:21:00.162
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\System\CurrentControlSet\Control\DeviceClasses\{0ecef634-6ef0-472a-8085-5ad023ecbccd}\##?#SWD#PRINTENUM#{FA04B239-C2C2-4449-8B30-0202EBCE4E46}#{0ecef634-6ef0-472a-8085-5ad023ecbccd}\#\Device Parameters\FriendlyName
+String: 8			: NT AUTHORITY\SYSTEM
+
+Event number			: 11
+Written time			: Oct 07, 2025 21:21:00.174694800 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000c (12)
+Number of strings		: 8
+String: 1			: InvDB-DriverVer
+String: 2			: DeleteValue
+String: 3			: 2025-10-07 21:21:00.162
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\System\CurrentControlSet\Control\Class\{1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}\0003\DriverVersion
+String: 8			: NT AUTHORITY\SYSTEM
+
+Event number			: 12
+Written time			: Oct 07, 2025 21:21:00.181704200 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000c (12)
+Number of strings		: 8
+String: 1			: Context,DeviceConnectedOrUpdated
+String: 2			: DeleteValue
+String: 3			: 2025-10-07 21:21:00.162
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\System\CurrentControlSet\Enum\SWD\PRINTENUM\{FA04B239-C2C2-4449-8B30-0202EBCE4E46}\FriendlyName
+String: 8			: NT AUTHORITY\SYSTEM
+
+Event number			: 13
+Written time			: Oct 07, 2025 21:21:00.268335600 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000d (13)
+Number of strings		: 9
+String: 1			: InvDB-DriverVer
+String: 2			: SetValue
+String: 3			: 2025-10-07 21:21:00.162
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Printers\Microsoft Print to PDF (redirected 2),5\DsDriver\driverVersion
+String: 8			: DWORD (0x00000401)
+String: 9			: NT AUTHORITY\SYSTEM
+
+Event number			: 14
+Written time			: Oct 07, 2025 21:21:00.280740600 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000d (13)
+Number of strings		: 9
+String: 1			: InvDB-DriverVer
+String: 2			: SetValue
+String: 3			: 2025-10-07 21:21:00.255
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Printers\Microsoft XPS Document Writer (redirected 2)\DsDriver\driverVersion
+String: 8			: DWORD (0x00000401)
+String: 9			: NT AUTHORITY\SYSTEM
+
+Event number			: 15
+Written time			: Oct 07, 2025 21:21:00.283184300 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000c (12)
+Number of strings		: 8
+String: 1			: Context,DeviceConnectedOrUpdated
+String: 2			: DeleteValue
+String: 3			: 2025-10-07 21:21:00.271
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\System\CurrentControlSet\Control\DeviceClasses\{0ecef634-6ef0-472a-8085-5ad023ecbccd}\##?#SWD#PRINTENUM#{270B9AA7-8F74-40F3-AF9E-B941DB1548C6}#{0ecef634-6ef0-472a-8085-5ad023ecbccd}\#\Device Parameters\FriendlyName
+String: 8			: NT AUTHORITY\SYSTEM
+
+Event number			: 16
+Written time			: Oct 07, 2025 21:21:00.284977200 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000c (12)
+Number of strings		: 8
+String: 1			: InvDB-DriverVer
+String: 2			: DeleteValue
+String: 3			: 2025-10-07 21:21:00.271
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\System\CurrentControlSet\Control\Class\{1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}\0004\DriverVersion
+String: 8			: NT AUTHORITY\SYSTEM
+
+Event number			: 17
+Written time			: Oct 07, 2025 21:21:00.292127600 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000c (12)
+Number of strings		: 8
+String: 1			: Context,DeviceConnectedOrUpdated
+String: 2			: DeleteValue
+String: 3			: 2025-10-07 21:21:00.271
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\System\CurrentControlSet\Enum\SWD\PRINTENUM\{270B9AA7-8F74-40F3-AF9E-B941DB1548C6}\FriendlyName
+String: 8			: NT AUTHORITY\SYSTEM
+
+Event number			: 18
+Written time			: Oct 07, 2025 21:21:00.366444300 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000d (13)
+Number of strings		: 9
+String: 1			: InvDB-DriverVer
+String: 2			: SetValue
+String: 3			: 2025-10-07 21:21:00.287
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Printers\Microsoft XPS Document Writer (redirected 2),6\DsDriver\driverVersion
+String: 8			: DWORD (0x00000401)
+String: 9			: NT AUTHORITY\SYSTEM
+
+Event number			: 19
+Written time			: Oct 07, 2025 21:21:00.378423500 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000d (13)
+Number of strings		: 9
+String: 1			: InvDB-DriverVer
+String: 2			: SetValue
+String: 3			: 2025-10-07 21:21:00.365
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Printers\OneNote for Windows 10 (redirected 2)\DsDriver\driverVersion
+String: 8			: DWORD (0x00000401)
+String: 9			: NT AUTHORITY\SYSTEM
+
+Event number			: 20
+Written time			: Oct 07, 2025 21:21:00.380993200 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000c (12)
+Number of strings		: 8
+String: 1			: Context,DeviceConnectedOrUpdated
+String: 2			: DeleteValue
+String: 3			: 2025-10-07 21:21:00.365
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\System\CurrentControlSet\Control\DeviceClasses\{0ecef634-6ef0-472a-8085-5ad023ecbccd}\##?#SWD#PRINTENUM#{D80BC162-830E-4E9D-BDFF-182A8A43F26B}#{0ecef634-6ef0-472a-8085-5ad023ecbccd}\#\Device Parameters\FriendlyName
+String: 8			: NT AUTHORITY\SYSTEM
+
+Event number			: 21
+Written time			: Oct 07, 2025 21:21:00.382800600 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000c (12)
+Number of strings		: 8
+String: 1			: InvDB-DriverVer
+String: 2			: DeleteValue
+String: 3			: 2025-10-07 21:21:00.365
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\System\CurrentControlSet\Control\Class\{1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}\0005\DriverVersion
+String: 8			: NT AUTHORITY\SYSTEM
+
+Event number			: 22
+Written time			: Oct 07, 2025 21:21:00.389865500 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000c (12)
+Number of strings		: 8
+String: 1			: Context,DeviceConnectedOrUpdated
+String: 2			: DeleteValue
+String: 3			: 2025-10-07 21:21:00.365
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\System\CurrentControlSet\Enum\SWD\PRINTENUM\{D80BC162-830E-4E9D-BDFF-182A8A43F26B}\FriendlyName
+String: 8			: NT AUTHORITY\SYSTEM
+
+Event number			: 23
+Written time			: Oct 07, 2025 21:21:00.438707900 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000d (13)
+Number of strings		: 9
+String: 1			: InvDB-DriverVer
+String: 2			: SetValue
+String: 3			: 2025-10-07 21:21:00.380
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Printers\OneNote for Windows 10 (redirected 2),7\DsDriver\driverVersion
+String: 8			: DWORD (0x00000401)
+String: 9			: NT AUTHORITY\SYSTEM
+
+Event number			: 24
+Written time			: Oct 07, 2025 21:21:00.448656000 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000d (13)
+Number of strings		: 9
+String: 1			: InvDB-DriverVer
+String: 2			: SetValue
+String: 3			: 2025-10-07 21:21:00.427
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Printers\Fax (redirected 2)\DsDriver\driverVersion
+String: 8			: DWORD (0x00000401)
+String: 9			: NT AUTHORITY\SYSTEM
+
+Event number			: 25
+Written time			: Oct 07, 2025 21:21:00.451126400 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000c (12)
+Number of strings		: 8
+String: 1			: Context,DeviceConnectedOrUpdated
+String: 2			: DeleteValue
+String: 3			: 2025-10-07 21:21:00.443
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\System\CurrentControlSet\Control\DeviceClasses\{0ecef634-6ef0-472a-8085-5ad023ecbccd}\##?#SWD#PRINTENUM#{6EF8DC65-6B10-4757-B558-D5B87FF75B0A}#{0ecef634-6ef0-472a-8085-5ad023ecbccd}\#\Device Parameters\FriendlyName
+String: 8			: NT AUTHORITY\SYSTEM
+
+Event number			: 26
+Written time			: Oct 07, 2025 21:21:00.452976400 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000c (12)
+Number of strings		: 8
+String: 1			: InvDB-DriverVer
+String: 2			: DeleteValue
+String: 3			: 2025-10-07 21:21:00.443
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\System\CurrentControlSet\Control\Class\{1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}\0006\DriverVersion
+String: 8			: NT AUTHORITY\SYSTEM
+
+Event number			: 27
+Written time			: Oct 07, 2025 21:21:00.459463100 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000c (12)
+Number of strings		: 8
+String: 1			: Context,DeviceConnectedOrUpdated
+String: 2			: DeleteValue
+String: 3			: 2025-10-07 21:21:00.443
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\System\CurrentControlSet\Enum\SWD\PRINTENUM\{6EF8DC65-6B10-4757-B558-D5B87FF75B0A}\FriendlyName
+String: 8			: NT AUTHORITY\SYSTEM
+
+Event number			: 28
+Written time			: Oct 07, 2025 21:21:00.530821100 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000d (13)
+Number of strings		: 9
+String: 1			: InvDB-DriverVer
+String: 2			: SetValue
+String: 3			: 2025-10-07 21:21:00.443
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Printers\Fax (redirected 2),8\DsDriver\driverVersion
+String: 8			: DWORD (0x00000401)
+String: 9			: NT AUTHORITY\SYSTEM
+
+Event number			: 29
+Written time			: Oct 07, 2025 21:21:00.542945300 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000d (13)
+Number of strings		: 9
+String: 1			: InvDB-DriverVer
+String: 2			: SetValue
+String: 3			: 2025-10-07 21:21:00.521
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Printers\OneNote (redirected 2)\DsDriver\driverVersion
+String: 8			: DWORD (0x00000401)
+String: 9			: NT AUTHORITY\SYSTEM
+
+Event number			: 30
+Written time			: Oct 07, 2025 21:21:00.545432900 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000c (12)
+Number of strings		: 8
+String: 1			: Context,DeviceConnectedOrUpdated
+String: 2			: DeleteValue
+String: 3			: 2025-10-07 21:21:00.537
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\System\CurrentControlSet\Control\DeviceClasses\{0ecef634-6ef0-472a-8085-5ad023ecbccd}\##?#SWD#PRINTENUM#{144C735C-4B44-478B-AA18-68F9EFBA7EE9}#{0ecef634-6ef0-472a-8085-5ad023ecbccd}\#\Device Parameters\FriendlyName
+String: 8			: NT AUTHORITY\SYSTEM
+
+Event number			: 31
+Written time			: Oct 07, 2025 21:21:00.547165000 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000c (12)
+Number of strings		: 8
+String: 1			: InvDB-DriverVer
+String: 2			: DeleteValue
+String: 3			: 2025-10-07 21:21:00.537
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\System\CurrentControlSet\Control\Class\{1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}\0007\DriverVersion
+String: 8			: NT AUTHORITY\SYSTEM
+
+Event number			: 32
+Written time			: Oct 07, 2025 21:21:00.555025700 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000c (12)
+Number of strings		: 8
+String: 1			: Context,DeviceConnectedOrUpdated
+String: 2			: DeleteValue
+String: 3			: 2025-10-07 21:21:00.537
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\System\CurrentControlSet\Enum\SWD\PRINTENUM\{144C735C-4B44-478B-AA18-68F9EFBA7EE9}\FriendlyName
+String: 8			: NT AUTHORITY\SYSTEM
+
+Event number			: 33
+Written time			: Oct 07, 2025 21:24:23.305246800 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000d (13)
+Number of strings		: 9
+String: 1			: InvDB-DriverVer
+String: 2			: SetValue
+String: 3			: 2025-10-07 21:21:00.537
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Printers\OneNote (redirected 2),9\DsDriver\driverVersion
+String: 8			: DWORD (0x00000401)
+String: 9			: NT AUTHORITY\SYSTEM
+
+Event number			: 34
+Written time			: Oct 07, 2025 21:24:23.325131000 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:24:23.304
+String: 3			: {8EED9800-8507-68E5-4401-000000006703}
+String: 4			: 4232
+String: 5			: C:\Windows\System32\taskhostw.exe
+String: 6			: 10.0.17763.1852 (WinBuild.160101.0800)
+String: 7			: Host Process for Windows Tasks
+String: 8			: Microsoft® Windows® Operating System
+String: 9			: Microsoft Corporation
+String: 10			: taskhostw.exe
+String: 11			: taskhostw.exe Install $(Arg0)
+String: 12			: C:\Windows\system32\
+String: 13			: EC2AMAZ-AGR00JO\Administrator
+String: 14			: {8EED9800-8181-68E5-1AFA-020000000000}
+String: 15			: 0x000000000002fa1a
+String: 16			: 2
+String: 17			: High
+String: 18			: MD5=8BD7B08DA6BCA54DF9B595E4D9281BEB,SHA256=DE85F29A8BC7219F10A4AC88654C3901ABC329D7505B21CD95CBF780D1EBCCF4,IMPHASH=9839C7FD9649496B162F72128209528A
+String: 19			: {8EED9800-8143-68E5-2400-000000006703}
+String: 20			: 1652
+String: 21			: C:\Windows\System32\svchost.exe
+String: 22			: C:\Windows\system32\svchost.exe -k netsvcs -p -s Schedule
+String: 23			: NT AUTHORITY\SYSTEM
+
+Event number			: 35
+Written time			: Oct 07, 2025 21:24:23.344952600 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:24:23.324
+String: 3			: {8EED9800-8507-68E5-4501-000000006703}
+String: 4			: 4320
+String: 5			: C:\Windows\servicing\TrustedInstaller.exe
+String: 6			: 10.0.17763.5696 (WinBuild.160101.0800)
+String: 7			: Windows Modules Installer
+String: 8			: Microsoft® Windows® Operating System
+String: 9			: Microsoft Corporation
+String: 10			: TrustedInstaller.exe
+String: 11			: C:\Windows\servicing\TrustedInstaller.exe
+String: 12			: C:\Windows\system32\
+String: 13			: NT AUTHORITY\SYSTEM
+String: 14			: {8EED9800-8141-68E5-E703-000000000000}
+String: 15			: 0x00000000000003e7
+String: 16			: 0
+String: 17			: System
+String: 18			: MD5=C06D6841B1802CD3179F6B2704BD5DBE,SHA256=8F6CF99AD477026F881E86250C5ECC3C1071DFB774C94A4202CCACE827E7E8AA,IMPHASH=AF5CC27E8B69DC8109BAB73613D3A12A
+String: 19			: {8EED9800-8141-68E5-0B00-000000006703}
+String: 20			: 772
+String: 21			: C:\Windows\System32\services.exe
+String: 22			: C:\Windows\system32\services.exe
+String: 23			: NT AUTHORITY\SYSTEM
+
+Event number			: 36
+Written time			: Oct 07, 2025 21:25:52.109512900 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:24:23.343
+String: 3			: {8EED9800-8507-68E5-4601-000000006703}
+String: 4			: 1372
+String: 5			: C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.17763.7781_none_56c91c1199339d12\TiWorker.exe
+String: 6			: 10.0.17763.7781 (WinBuild.160101.0800)
+String: 7			: Windows Modules Installer Worker
+String: 8			: Microsoft® Windows® Operating System
+String: 9			: Microsoft Corporation
+String: 10			: TiWorker.exe
+String: 11			: C:\Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.17763.7781_none_56c91c1199339d12\TiWorker.exe -Embedding
+String: 12			: C:\Windows\system32\
+String: 13			: NT AUTHORITY\SYSTEM
+String: 14			: {8EED9800-8141-68E5-E703-000000000000}
+String: 15			: 0x00000000000003e7
+String: 16			: 0
+String: 17			: System
+String: 18			: MD5=33EA21DE0E7A90D3E9C954F2256BA759,SHA256=C7B96F52481CDB0773A324AD66D25BC04B953D363DD95E408D555F6FE9DB7B64,IMPHASH=1CBCFAF36C2AD99E911D299737C12477
+String: 19			: {8EED9800-8142-68E5-0E00-000000006703}
+String: 20			: 916
+String: 21			: C:\Windows\System32\svchost.exe
+String: 22			: C:\Windows\system32\svchost.exe -k DcomLaunch -p
+String: 23			: NT AUTHORITY\SYSTEM
+
+Event number			: 37
+Written time			: Oct 07, 2025 21:25:52.112153900 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000b (11)
+Number of strings		: 8
+String: 1			: -
+String: 2			: 2025-10-07 21:25:52.107
+String: 3			: {8EED9800-8202-68E5-BA00-000000006703}
+String: 4			: 4036
+String: 5			: c:\windows\system32\inetsrv\w3wp.exe
+String: 6			: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\e867663a\d997750a\4ud1gfd1.cmdline
+String: 7			: 2025-10-07 21:25:52.107
+String: 8			: IIS APPPOOL\MyAppPool
+
+Event number			: 38
+Written time			: Oct 07, 2025 21:25:52.454927900 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:25:52.111
+String: 3			: {8EED9800-8560-68E5-4701-000000006703}
+String: 4			: 3672
+String: 5			: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe
+String: 6			: 4.8.3761.0 built by: NET48REL1
+String: 7			: Visual C# Command Line Compiler
+String: 8			: Microsoft® .NET Framework
+String: 9			: Microsoft Corporation
+String: 10			: csc.exe
+String: 11			: "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe" /noconfig /fullpaths @"C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\e867663a\d997750a\4ud1gfd1.cmdline"
+String: 12			: c:\windows\system32\inetsrv\
+String: 13			: IIS APPPOOL\MyAppPool
+String: 14			: {8EED9800-8202-68E5-9229-080000000000}
+String: 15			: 0x0000000000082992
+String: 16			: 0
+String: 17			: High
+String: 18			: MD5=23EE3D381CFE3B9F6229483E2CE2F9E1,SHA256=4240A12E0B246C9D69AF1F697488FE7DA1B497DF20F4A6F95135B4D5FE180A57,IMPHASH=EE1E569AD02AA1F7AECA80AC0601D80D
+String: 19			: {8EED9800-8202-68E5-BA00-000000006703}
+String: 20			: 4036
+String: 21			: C:\Windows\System32\inetsrv\w3wp.exe
+String: 22			: c:\windows\system32\inetsrv\w3wp.exe -ap "MyAppPool" -v "v4.0" -l "webengine4.dll" -a \\.\pipe\iisipm11b827af-d73b-4f68-9bd8-f8a2d723e1e3 -h "C:\inetpub\temp\apppools\MyAppPool\MyAppPool.config" -w "" -m 0 -t 20 -ta 0
+String: 23			: IIS APPPOOL\MyAppPool
+
+Event number			: 39
+Written time			: Oct 07, 2025 21:25:52.466110900 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:25:52.454
+String: 3			: {8EED9800-8560-68E5-4901-000000006703}
+String: 4			: 3184
+String: 5			: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\cvtres.exe
+String: 6			: 14.10.25028.0 built by: VCTOOLSD15RTM
+String: 7			: Microsoft® Resource File To COFF Object Conversion Utility
+String: 8			: Microsoft® .NET Framework
+String: 9			: Microsoft Corporation
+String: 10			: CVTRES.EXE
+String: 11			: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\cvtres.exe /NOLOGO /READONLY /MACHINE:IX86 "/OUT:C:\Windows\TEMP\RES3450.tmp" "c:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\e867663a\d997750a\4ud1gfd1.res"
+String: 12			: c:\windows\system32\inetsrv\
+String: 13			: IIS APPPOOL\MyAppPool
+String: 14			: {8EED9800-8202-68E5-9229-080000000000}
+String: 15			: 0x0000000000082992
+String: 16			: 0
+String: 17			: High
+String: 18			: MD5=C877CBB966EA5939AA2A17B6A5160950,SHA256=1FE531EAC592B480AA4BD16052B909C3431434F17E7AE163D248355558CE43A6,IMPHASH=55D76ADE7FFEA0F41FF2B55505C2B362
+String: 19			: {8EED9800-8560-68E5-4701-000000006703}
+String: 20			: 3672
+String: 21			: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe
+String: 22			: "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe" /noconfig /fullpaths @"C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\e867663a\d997750a\4ud1gfd1.cmdline"
+String: 23			: IIS APPPOOL\MyAppPool
+
+Event number			: 40
+Written time			: Oct 07, 2025 21:26:25.675179900 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000b (11)
+Number of strings		: 8
+String: 1			: DLL
+String: 2			: 2025-10-07 21:25:52.451
+String: 3			: {8EED9800-8560-68E5-4701-000000006703}
+String: 4			: 3672
+String: 5			: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe
+String: 6			: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\e867663a\d997750a\App_Web_4ud1gfd1.dll
+String: 7			: 2025-10-07 21:25:52.451
+String: 8			: IIS APPPOOL\MyAppPool
+
+Event number			: 41
+Written time			: Oct 07, 2025 21:26:25.709300000 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:26:25.674
+String: 3			: {8EED9800-8581-68E5-4A01-000000006703}
+String: 4			: 4168
+String: 5			: C:\Windows\System32\cmd.exe
+String: 6			: 10.0.17763.1697 (WinBuild.160101.0800)
+String: 7			: Windows Command Processor
+String: 8			: Microsoft® Windows® Operating System
+String: 9			: Microsoft Corporation
+String: 10			: Cmd.Exe
+String: 11			: "c:\windows\system32\cmd.exe" /c net user
+String: 12			: c:\windows\system32\inetsrv\
+String: 13			: IIS APPPOOL\MyAppPool
+String: 14			: {8EED9800-8202-68E5-9229-080000000000}
+String: 15			: 0x0000000000082992
+String: 16			: 0
+String: 17			: High
+String: 18			: MD5=911D039E71583A07320B32BDE22F8E22,SHA256=BC866CFCDDA37E24DC2634DC282C7A0E6F55209DA17A8FA105B07414C0E7C527,IMPHASH=272245E2988E1E430500B852C4FB5E18
+String: 19			: {8EED9800-8202-68E5-BA00-000000006703}
+String: 20			: 4036
+String: 21			: C:\Windows\System32\inetsrv\w3wp.exe
+String: 22			: c:\windows\system32\inetsrv\w3wp.exe -ap "MyAppPool" -v "v4.0" -l "webengine4.dll" -a \\.\pipe\iisipm11b827af-d73b-4f68-9bd8-f8a2d723e1e3 -h "C:\inetpub\temp\apppools\MyAppPool\MyAppPool.config" -w "" -m 0 -t 20 -ta 0
+String: 23			: IIS APPPOOL\MyAppPool
+
+Event number			: 42
+Written time			: Oct 07, 2025 21:26:25.716956900 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:26:25.708
+String: 3			: {8EED9800-8581-68E5-4C01-000000006703}
+String: 4			: 2312
+String: 5			: C:\Windows\System32\net.exe
+String: 6			: 10.0.17763.1 (WinBuild.160101.0800)
+String: 7			: Net Command
+String: 8			: Microsoft® Windows® Operating System
+String: 9			: Microsoft Corporation
+String: 10			: net.exe
+String: 11			: net  user
+String: 12			: c:\windows\system32\inetsrv\
+String: 13			: IIS APPPOOL\MyAppPool
+String: 14			: {8EED9800-8202-68E5-9229-080000000000}
+String: 15			: 0x0000000000082992
+String: 16			: 0
+String: 17			: High
+String: 18			: MD5=AE61D8F04BCDE8158304067913160B31,SHA256=25C8266D2BC1D5626DCDF72419838B397D28D44D00AC09F02FF4E421B43EC369,IMPHASH=57F0C47AE2A1A2C06C8B987372AB0B07
+String: 19			: {8EED9800-8581-68E5-4A01-000000006703}
+String: 20			: 4168
+String: 21			: C:\Windows\System32\cmd.exe
+String: 22			: "c:\windows\system32\cmd.exe" /c net user
+String: 23			: IIS APPPOOL\MyAppPool
+
+Event number			: 43
+Written time			: Oct 07, 2025 21:26:31.211039700 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:26:25.716
+String: 3			: {8EED9800-8581-68E5-4D01-000000006703}
+String: 4			: 2324
+String: 5			: C:\Windows\System32\net1.exe
+String: 6			: 10.0.17763.1 (WinBuild.160101.0800)
+String: 7			: Net Command
+String: 8			: Microsoft® Windows® Operating System
+String: 9			: Microsoft Corporation
+String: 10			: net1.exe
+String: 11			: C:\Windows\system32\net1  user
+String: 12			: c:\windows\system32\inetsrv\
+String: 13			: IIS APPPOOL\MyAppPool
+String: 14			: {8EED9800-8202-68E5-9229-080000000000}
+String: 15			: 0x0000000000082992
+String: 16			: 0
+String: 17			: High
+String: 18			: MD5=63DD4523677E62A73A8A7494DB321EA2,SHA256=C687157FD58EAA51757CDA87D06C30953A31F03F5356B9F5A9C004FA4BAD4BF5,IMPHASH=41DBA1AF77E1A2260F0CE46D59ADCB5E
+String: 19			: {8EED9800-8581-68E5-4C01-000000006703}
+String: 20			: 2312
+String: 21			: C:\Windows\System32\net.exe
+String: 22			: net  user
+String: 23			: IIS APPPOOL\MyAppPool
+
+Event number			: 44
+Written time			: Oct 07, 2025 21:26:31.245831300 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:26:31.210
+String: 3			: {8EED9800-8587-68E5-4E01-000000006703}
+String: 4			: 1064
+String: 5			: C:\Windows\System32\cmd.exe
+String: 6			: 10.0.17763.1697 (WinBuild.160101.0800)
+String: 7			: Windows Command Processor
+String: 8			: Microsoft® Windows® Operating System
+String: 9			: Microsoft Corporation
+String: 10			: Cmd.Exe
+String: 11			: "c:\windows\system32\cmd.exe" /c systeminfo
+String: 12			: c:\windows\system32\inetsrv\
+String: 13			: IIS APPPOOL\MyAppPool
+String: 14			: {8EED9800-8202-68E5-9229-080000000000}
+String: 15			: 0x0000000000082992
+String: 16			: 0
+String: 17			: High
+String: 18			: MD5=911D039E71583A07320B32BDE22F8E22,SHA256=BC866CFCDDA37E24DC2634DC282C7A0E6F55209DA17A8FA105B07414C0E7C527,IMPHASH=272245E2988E1E430500B852C4FB5E18
+String: 19			: {8EED9800-8202-68E5-BA00-000000006703}
+String: 20			: 4036
+String: 21			: C:\Windows\System32\inetsrv\w3wp.exe
+String: 22			: c:\windows\system32\inetsrv\w3wp.exe -ap "MyAppPool" -v "v4.0" -l "webengine4.dll" -a \\.\pipe\iisipm11b827af-d73b-4f68-9bd8-f8a2d723e1e3 -h "C:\inetpub\temp\apppools\MyAppPool\MyAppPool.config" -w "" -m 0 -t 20 -ta 0
+String: 23			: IIS APPPOOL\MyAppPool
+
+Event number			: 45
+Written time			: Oct 07, 2025 21:26:31.484543800 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:26:31.245
+String: 3			: {8EED9800-8587-68E5-5001-000000006703}
+String: 4			: 5556
+String: 5			: C:\Windows\System32\systeminfo.exe
+String: 6			: 10.0.17763.1 (WinBuild.160101.0800)
+String: 7			: Displays system information
+String: 8			: Microsoft® Windows® Operating System
+String: 9			: Microsoft Corporation
+String: 10			: sysinfo.exe
+String: 11			: systeminfo
+String: 12			: c:\windows\system32\inetsrv\
+String: 13			: IIS APPPOOL\MyAppPool
+String: 14			: {8EED9800-8202-68E5-9229-080000000000}
+String: 15			: 0x0000000000082992
+String: 16			: 0
+String: 17			: High
+String: 18			: MD5=F2D7816271A27223945E8AE24B6F81F7,SHA256=1084ADF2DDBE903BD71A496720B0D6616882F120D1B3FFEAE8D47FEB0D9CC123,IMPHASH=C5985EAB8C1ED292344936A4595C1438
+String: 19			: {8EED9800-8587-68E5-4E01-000000006703}
+String: 20			: 1064
+String: 21			: C:\Windows\System32\cmd.exe
+String: 22			: "c:\windows\system32\cmd.exe" /c systeminfo
+String: 23			: IIS APPPOOL\MyAppPool
+
+Event number			: 46
+Written time			: Oct 07, 2025 21:26:31.503445700 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:26:31.483
+String: 3			: {8EED9800-8587-68E5-5301-000000006703}
+String: 4			: 1216
+String: 5			: C:\Windows\servicing\TrustedInstaller.exe
+String: 6			: 10.0.17763.5696 (WinBuild.160101.0800)
+String: 7			: Windows Modules Installer
+String: 8			: Microsoft® Windows® Operating System
+String: 9			: Microsoft Corporation
+String: 10			: TrustedInstaller.exe
+String: 11			: C:\Windows\servicing\TrustedInstaller.exe
+String: 12			: C:\Windows\system32\
+String: 13			: NT AUTHORITY\SYSTEM
+String: 14			: {8EED9800-8141-68E5-E703-000000000000}
+String: 15			: 0x00000000000003e7
+String: 16			: 0
+String: 17			: System
+String: 18			: MD5=C06D6841B1802CD3179F6B2704BD5DBE,SHA256=8F6CF99AD477026F881E86250C5ECC3C1071DFB774C94A4202CCACE827E7E8AA,IMPHASH=AF5CC27E8B69DC8109BAB73613D3A12A
+String: 19			: {8EED9800-8141-68E5-0B00-000000006703}
+String: 20			: 772
+String: 21			: C:\Windows\System32\services.exe
+String: 22			: C:\Windows\system32\services.exe
+String: 23			: NT AUTHORITY\SYSTEM
+
+Event number			: 47
+Written time			: Oct 07, 2025 21:26:36.672300500 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:26:31.502
+String: 3			: {8EED9800-8587-68E5-5401-000000006703}
+String: 4			: 4976
+String: 5			: C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.17763.7781_none_56c91c1199339d12\TiWorker.exe
+String: 6			: 10.0.17763.7781 (WinBuild.160101.0800)
+String: 7			: Windows Modules Installer Worker
+String: 8			: Microsoft® Windows® Operating System
+String: 9			: Microsoft Corporation
+String: 10			: TiWorker.exe
+String: 11			: C:\Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.17763.7781_none_56c91c1199339d12\TiWorker.exe -Embedding
+String: 12			: C:\Windows\system32\
+String: 13			: NT AUTHORITY\SYSTEM
+String: 14			: {8EED9800-8141-68E5-E703-000000000000}
+String: 15			: 0x00000000000003e7
+String: 16			: 0
+String: 17			: System
+String: 18			: MD5=33EA21DE0E7A90D3E9C954F2256BA759,SHA256=C7B96F52481CDB0773A324AD66D25BC04B953D363DD95E408D555F6FE9DB7B64,IMPHASH=1CBCFAF36C2AD99E911D299737C12477
+String: 19			: {8EED9800-8142-68E5-0E00-000000006703}
+String: 20			: 916
+String: 21			: C:\Windows\System32\svchost.exe
+String: 22			: C:\Windows\system32\svchost.exe -k DcomLaunch -p
+String: 23			: NT AUTHORITY\SYSTEM
+
+Event number			: 48
+Written time			: Oct 07, 2025 21:26:36.707199200 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:26:36.671
+String: 3			: {8EED9800-858C-68E5-5501-000000006703}
+String: 4			: 5280
+String: 5			: C:\Windows\System32\cmd.exe
+String: 6			: 10.0.17763.1697 (WinBuild.160101.0800)
+String: 7			: Windows Command Processor
+String: 8			: Microsoft® Windows® Operating System
+String: 9			: Microsoft Corporation
+String: 10			: Cmd.Exe
+String: 11			: "c:\windows\system32\cmd.exe" /c ipconfig /all
+String: 12			: c:\windows\system32\inetsrv\
+String: 13			: IIS APPPOOL\MyAppPool
+String: 14			: {8EED9800-8202-68E5-9229-080000000000}
+String: 15			: 0x0000000000082992
+String: 16			: 0
+String: 17			: High
+String: 18			: MD5=911D039E71583A07320B32BDE22F8E22,SHA256=BC866CFCDDA37E24DC2634DC282C7A0E6F55209DA17A8FA105B07414C0E7C527,IMPHASH=272245E2988E1E430500B852C4FB5E18
+String: 19			: {8EED9800-8202-68E5-BA00-000000006703}
+String: 20			: 4036
+String: 21			: C:\Windows\System32\inetsrv\w3wp.exe
+String: 22			: c:\windows\system32\inetsrv\w3wp.exe -ap "MyAppPool" -v "v4.0" -l "webengine4.dll" -a \\.\pipe\iisipm11b827af-d73b-4f68-9bd8-f8a2d723e1e3 -h "C:\inetpub\temp\apppools\MyAppPool\MyAppPool.config" -w "" -m 0 -t 20 -ta 0
+String: 23			: IIS APPPOOL\MyAppPool
+
+Event number			: 49
+Written time			: Oct 07, 2025 21:27:39.111043100 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:26:36.705
+String: 3			: {8EED9800-858C-68E5-5701-000000006703}
+String: 4			: 3736
+String: 5			: C:\Windows\System32\ipconfig.exe
+String: 6			: 10.0.17763.1 (WinBuild.160101.0800)
+String: 7			: IP Configuration Utility
+String: 8			: Microsoft® Windows® Operating System
+String: 9			: Microsoft Corporation
+String: 10			: ipconfig.exe
+String: 11			: ipconfig  /all
+String: 12			: c:\windows\system32\inetsrv\
+String: 13			: IIS APPPOOL\MyAppPool
+String: 14			: {8EED9800-8202-68E5-9229-080000000000}
+String: 15			: 0x0000000000082992
+String: 16			: 0
+String: 17			: High
+String: 18			: MD5=3D33188ECD39ECFEEA2E08996891C76E,SHA256=C5DBBDDD1193C7ADCA1E30CD17B8C7AF6A76C406DD84DC164BB959C135F1AA70,IMPHASH=15167A60983BFC39B2DA4F53B9B1F28C
+String: 19			: {8EED9800-858C-68E5-5501-000000006703}
+String: 20			: 5280
+String: 21			: C:\Windows\System32\cmd.exe
+String: 22			: "c:\windows\system32\cmd.exe" /c ipconfig /all
+String: 23			: IIS APPPOOL\MyAppPool
+
+Event number			: 50
+Written time			: Oct 07, 2025 21:28:19.689107900 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000b (11)
+Number of strings		: 8
+String: 1			: EXE
+String: 2			: 2025-10-07 21:27:39.100
+String: 3			: {8EED9800-8202-68E5-BA00-000000006703}
+String: 4			: 4036
+String: 5			: c:\windows\system32\inetsrv\w3wp.exe
+String: 6			: C:\ProgramData\svchost.exe
+String: 7			: 2025-10-07 21:27:39.100
+String: 8			: IIS APPPOOL\MyAppPool
+
+Event number			: 51
+Written time			: Oct 07, 2025 21:28:31.885931700 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:28:19.688
+String: 3			: {8EED9800-85F3-68E5-5801-000000006703}
+String: 4			: 3452
+String: 5			: C:\ProgramData\svchost.exe
+String: 6			: -
+String: 7			: -
+String: 8			: -
+String: 9			: -
+String: 10			: -
+String: 11			: "C:\ProgramData\svchost.exe"
+String: 12			: c:\windows\system32\inetsrv\
+String: 13			: IIS APPPOOL\MyAppPool
+String: 14			: {8EED9800-8202-68E5-9229-080000000000}
+String: 15			: 0x0000000000082992
+String: 16			: 0
+String: 17			: High
+String: 18			: MD5=739B9892F5A3A83204C723C10620AC68,SHA256=6C9917933B3DD0DFFE63B0472F1F36BAA7508186099C1D8B669BA5CC20E2C224,IMPHASH=C2D02FC98F1D75D7B9457468EC75DA0E
+String: 19			: {8EED9800-8202-68E5-BA00-000000006703}
+String: 20			: 4036
+String: 21			: C:\Windows\System32\inetsrv\w3wp.exe
+String: 22			: c:\windows\system32\inetsrv\w3wp.exe -ap "MyAppPool" -v "v4.0" -l "webengine4.dll" -a \\.\pipe\iisipm11b827af-d73b-4f68-9bd8-f8a2d723e1e3 -h "C:\inetpub\temp\apppools\MyAppPool\MyAppPool.config" -w "" -m 0 -t 20 -ta 0
+String: 23			: IIS APPPOOL\MyAppPool
+
+Event number			: 52
+Written time			: Oct 07, 2025 21:28:52.076381400 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000003 (3)
+Number of strings		: 18
+String: 1			: -
+String: 2			: 2025-10-07 21:28:29.548
+String: 3			: {8EED9800-85F3-68E5-5801-000000006703}
+String: 4			: 3452
+String: 5			: C:\ProgramData\svchost.exe
+String: 6			: IIS APPPOOL\MyAppPool
+String: 7			: tcp
+String: 8			: false
+String: 9			: false
+String: 10			: 103.125.233.27
+String: 11			: -
+String: 12			: 37761
+String: 13			: -
+String: 14			: false
+String: 15			: 172.31.9.222
+String: 16			: EC2AMAZ-AGR00JO.eu-west-2.compute.internal
+String: 17			: 8080
+String: 18			: -
+
+Event number			: 53
+Written time			: Oct 07, 2025 21:29:11.258093700 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:28:52.075
+String: 3			: {8EED9800-8614-68E5-5901-000000006703}
+String: 4			: 4568
+String: 5			: C:\Windows\System32\taskhostw.exe
+String: 6			: 10.0.17763.1852 (WinBuild.160101.0800)
+String: 7			: Host Process for Windows Tasks
+String: 8			: Microsoft® Windows® Operating System
+String: 9			: Microsoft Corporation
+String: 10			: taskhostw.exe
+String: 11			: taskhostw.exe NGCKeyPregen
+String: 12			: C:\Windows\system32\
+String: 13			: NT AUTHORITY\SYSTEM
+String: 14			: {8EED9800-8141-68E5-E703-000000000000}
+String: 15			: 0x00000000000003e7
+String: 16			: 0
+String: 17			: System
+String: 18			: MD5=8BD7B08DA6BCA54DF9B595E4D9281BEB,SHA256=DE85F29A8BC7219F10A4AC88654C3901ABC329D7505B21CD95CBF780D1EBCCF4,IMPHASH=9839C7FD9649496B162F72128209528A
+String: 19			: {8EED9800-8143-68E5-2400-000000006703}
+String: 20			: 1652
+String: 21			: C:\Windows\System32\svchost.exe
+String: 22			: C:\Windows\system32\svchost.exe -k netsvcs -p -s Schedule
+String: 23			: NT AUTHORITY\SYSTEM
+
+Event number			: 54
+Written time			: Oct 07, 2025 21:29:22.871703500 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000b (11)
+Number of strings		: 8
+String: 1			: DLL
+String: 2			: 2025-10-07 21:29:11.245
+String: 3			: {8EED9800-85F3-68E5-5801-000000006703}
+String: 4			: 3452
+String: 5			: C:\ProgramData\svchost.exe
+String: 6			: C:\Windows\Temp\uizdjh.dll
+String: 7			: 2025-10-07 21:29:11.245
+String: 8			: IIS APPPOOL\MyAppPool
+
+Event number			: 55
+Written time			: Oct 07, 2025 21:30:26.290524200 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:29:22.870
+String: 3			: {8EED9800-8632-68E5-5A01-000000006703}
+String: 4			: 5888
+String: 5			: C:\Windows\System32\cmd.exe
+String: 6			: 10.0.17763.1697 (WinBuild.160101.0800)
+String: 7			: Windows Command Processor
+String: 8			: Microsoft® Windows® Operating System
+String: 9			: Microsoft Corporation
+String: 10			: Cmd.Exe
+String: 11			: C:\Windows\system32\cmd.exe 
+String: 12			: c:\windows\system32\inetsrv\
+String: 13			: NT AUTHORITY\SYSTEM
+String: 14			: {8EED9800-8141-68E5-E703-000000000000}
+String: 15			: 0x00000000000003e7
+String: 16			: 0
+String: 17			: System
+String: 18			: MD5=911D039E71583A07320B32BDE22F8E22,SHA256=BC866CFCDDA37E24DC2634DC282C7A0E6F55209DA17A8FA105B07414C0E7C527,IMPHASH=272245E2988E1E430500B852C4FB5E18
+String: 19			: {8EED9800-85F3-68E5-5801-000000006703}
+String: 20			: 3452
+String: 21			: C:\ProgramData\svchost.exe
+String: 22			: "C:\ProgramData\svchost.exe"
+String: 23			: IIS APPPOOL\MyAppPool
+
+Event number			: 56
+Written time			: Oct 07, 2025 21:30:26.297336300 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:30:26.289
+String: 3			: {8EED9800-8672-68E5-5C01-000000006703}
+String: 4			: 2548
+String: 5			: C:\Windows\System32\net.exe
+String: 6			: 10.0.17763.1 (WinBuild.160101.0800)
+String: 7			: Net Command
+String: 8			: Microsoft® Windows® Operating System
+String: 9			: Microsoft Corporation
+String: 10			: net.exe
+String: 11			: net  user IIS_USER VJGSuERc6qYAYPdRc556JTHqxqWwLbPwzABc0XgIhgwYEWdQji1 /add
+String: 12			: C:\ProgramData\
+String: 13			: NT AUTHORITY\SYSTEM
+String: 14			: {8EED9800-8141-68E5-E703-000000000000}
+String: 15			: 0x00000000000003e7
+String: 16			: 0
+String: 17			: System
+String: 18			: MD5=AE61D8F04BCDE8158304067913160B31,SHA256=25C8266D2BC1D5626DCDF72419838B397D28D44D00AC09F02FF4E421B43EC369,IMPHASH=57F0C47AE2A1A2C06C8B987372AB0B07
+String: 19			: {8EED9800-8632-68E5-5A01-000000006703}
+String: 20			: 5888
+String: 21			: C:\Windows\System32\cmd.exe
+String: 22			: C:\Windows\system32\cmd.exe 
+String: 23			: NT AUTHORITY\SYSTEM
+
+Event number			: 57
+Written time			: Oct 07, 2025 21:31:36.582672300 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:30:26.296
+String: 3			: {8EED9800-8672-68E5-5D01-000000006703}
+String: 4			: 412
+String: 5			: C:\Windows\System32\net1.exe
+String: 6			: 10.0.17763.1 (WinBuild.160101.0800)
+String: 7			: Net Command
+String: 8			: Microsoft® Windows® Operating System
+String: 9			: Microsoft Corporation
+String: 10			: net1.exe
+String: 11			: C:\Windows\system32\net1  user IIS_USER VJGSuERc6qYAYPdRc556JTHqxqWwLbPwzABc0XgIhgwYEWdQji1 /add
+String: 12			: C:\ProgramData\
+String: 13			: NT AUTHORITY\SYSTEM
+String: 14			: {8EED9800-8141-68E5-E703-000000000000}
+String: 15			: 0x00000000000003e7
+String: 16			: 0
+String: 17			: System
+String: 18			: MD5=63DD4523677E62A73A8A7494DB321EA2,SHA256=C687157FD58EAA51757CDA87D06C30953A31F03F5356B9F5A9C004FA4BAD4BF5,IMPHASH=41DBA1AF77E1A2260F0CE46D59ADCB5E
+String: 19			: {8EED9800-8672-68E5-5C01-000000006703}
+String: 20			: 2548
+String: 21			: C:\Windows\System32\net.exe
+String: 22			: net  user IIS_USER VJGSuERc6qYAYPdRc556JTHqxqWwLbPwzABc0XgIhgwYEWdQji1 /add
+String: 23			: NT AUTHORITY\SYSTEM
+
+Event number			: 58
+Written time			: Oct 07, 2025 21:32:35.061708300 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000b (11)
+Number of strings		: 8
+String: 1			: EXE
+String: 2			: 2025-10-07 21:31:36.570
+String: 3			: {8EED9800-8202-68E5-BA00-000000006703}
+String: 4			: 4036
+String: 5			: c:\windows\system32\inetsrv\w3wp.exe
+String: 6			: C:\ProgramData\frpc.exe
+String: 7			: 2025-10-07 21:31:36.570
+String: 8			: IIS APPPOOL\MyAppPool
+
+Event number			: 59
+Written time			: Oct 07, 2025 21:32:37.094266300 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:32:34.921
+String: 3			: {8EED9800-86F2-68E5-5E01-000000006703}
+String: 4			: 5060
+String: 5			: C:\ProgramData\frpc.exe
+String: 6			: -
+String: 7			: -
+String: 8			: -
+String: 9			: -
+String: 10			: -
+String: 11			: frpc.exe  -c frpc.ini
+String: 12			: C:\ProgramData\
+String: 13			: NT AUTHORITY\SYSTEM
+String: 14			: {8EED9800-8141-68E5-E703-000000000000}
+String: 15			: 0x00000000000003e7
+String: 16			: 0
+String: 17			: System
+String: 18			: MD5=AD509C1002ED221F506C366654953BF6,SHA256=EF35CDD1FB4FA92121CEBAF1177BA6954571E08E47D7CFA228EABA5436BEE798,IMPHASH=B196866F0BF37F1F128FA153413B744F
+String: 19			: {8EED9800-8632-68E5-5A01-000000006703}
+String: 20			: 5888
+String: 21			: C:\Windows\System32\cmd.exe
+String: 22			: C:\Windows\system32\cmd.exe 
+String: 23			: NT AUTHORITY\SYSTEM
+
+Event number			: 60
+Written time			: Oct 07, 2025 21:32:39.185922500 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000003 (3)
+Number of strings		: 18
+String: 1			: -
+String: 2			: 2025-10-07 21:32:35.344
+String: 3			: {8EED9800-86F2-68E5-5E01-000000006703}
+String: 4			: 5060
+String: 5			: C:\ProgramData\frpc.exe
+String: 6			: NT AUTHORITY\SYSTEM
+String: 7			: tcp
+String: 8			: true
+String: 9			: false
+String: 10			: 172.31.9.222
+String: 11			: EC2AMAZ-AGR00JO.eu-west-2.compute.internal
+String: 12			: 49713
+String: 13			: -
+String: 14			: false
+String: 15			: 117.72.105.10
+String: 16			: -
+String: 17			: 7000
+String: 18			: -
+
+Event number			: 61
+Written time			: Oct 07, 2025 21:33:19.720306600 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000003 (3)
+Number of strings		: 18
+String: 1			: RDP
+String: 2			: 2025-10-07 21:32:37.675
+String: 3			: {8EED9800-8142-68E5-1300-000000006703}
+String: 4			: 912
+String: 5			: C:\Windows\System32\svchost.exe
+String: 6			: NT AUTHORITY\NETWORK SERVICE
+String: 7			: tcp
+String: 8			: false
+String: 9			: false
+String: 10			: 13.38.65.236
+String: 11			: ec2-13-38-65-236.eu-west-3.compute.amazonaws.com
+String: 12			: 61792
+String: 13			: -
+String: 14			: false
+String: 15			: 172.31.9.222
+String: 16			: EC2AMAZ-AGR00JO.eu-west-2.compute.internal
+String: 17			: 3389
+String: 18			: ms-wbt-server
+
+Event number			: 62
+Written time			: Oct 07, 2025 21:33:19.720327700 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000003 (3)
+Number of strings		: 18
+String: 1			: RDP
+String: 2			: 2025-10-07 21:33:17.593
+String: 3			: {8EED9800-8142-68E5-1300-000000006703}
+String: 4			: 912
+String: 5			: C:\Windows\System32\svchost.exe
+String: 6			: NT AUTHORITY\NETWORK SERVICE
+String: 7			: tcp
+String: 8			: false
+String: 9			: false
+String: 10			: 185.195.232.172
+String: 11			: -
+String: 12			: 65280
+String: 13			: -
+String: 14			: false
+String: 15			: 172.31.9.222
+String: 16			: EC2AMAZ-AGR00JO.eu-west-2.compute.internal
+String: 17			: 3389
+String: 18			: ms-wbt-server
+
+Event number			: 63
+Written time			: Oct 07, 2025 21:33:19.720340900 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000003 (3)
+Number of strings		: 18
+String: 1			: RDP
+String: 2			: 2025-10-07 21:33:17.761
+String: 3			: {8EED9800-8142-68E5-1300-000000006703}
+String: 4			: 912
+String: 5			: C:\Windows\System32\svchost.exe
+String: 6			: NT AUTHORITY\NETWORK SERVICE
+String: 7			: tcp
+String: 8			: false
+String: 9			: false
+String: 10			: 185.195.232.172
+String: 11			: -
+String: 12			: 65281
+String: 13			: -
+String: 14			: false
+String: 15			: 172.31.9.222
+String: 16			: EC2AMAZ-AGR00JO.eu-west-2.compute.internal
+String: 17			: 3389
+String: 18			: ms-wbt-server
+
+Event number			: 64
+Written time			: Oct 07, 2025 21:33:24.948210300 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000003 (3)
+Number of strings		: 18
+String: 1			: RDP
+String: 2			: 2025-10-07 21:33:17.907
+String: 3			: {8EED9800-8142-68E5-1300-000000006703}
+String: 4			: 912
+String: 5			: C:\Windows\System32\svchost.exe
+String: 6			: NT AUTHORITY\NETWORK SERVICE
+String: 7			: tcp
+String: 8			: false
+String: 9			: false
+String: 10			: 185.195.232.172
+String: 11			: -
+String: 12			: 65282
+String: 13			: -
+String: 14			: false
+String: 15			: 172.31.9.222
+String: 16			: EC2AMAZ-AGR00JO.eu-west-2.compute.internal
+String: 17			: 3389
+String: 18			: ms-wbt-server
+
+Event number			: 65
+Written time			: Oct 07, 2025 21:33:25.821530100 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:33:24.945
+String: 3			: {8EED9800-8724-68E5-5F01-000000006703}
+String: 4			: 5248
+String: 5			: C:\Windows\System32\TSTheme.exe
+String: 6			: 10.0.17763.1697 (WinBuild.160101.0800)
+String: 7			: TSTheme Server Module
+String: 8			: Microsoft® Windows® Operating System
+String: 9			: Microsoft Corporation
+String: 10			: TSThemeS.exe
+String: 11			: C:\Windows\system32\TSTheme.exe -Embedding
+String: 12			: C:\Windows\system32\
+String: 13			: EC2AMAZ-AGR00JO\Administrator
+String: 14			: {8EED9800-8181-68E5-1AFA-020000000000}
+String: 15			: 0x000000000002fa1a
+String: 16			: 2
+String: 17			: High
+String: 18			: MD5=678B049F46799F3FA858CE79376EB7B5,SHA256=C1879B15C38D1C9BB86BCFD08A0B7D8A0809C553F8F1985659D7DA0C883EA4F7,IMPHASH=B70390445EE6DE87340DFE5CB7439893
+String: 19			: {8EED9800-8142-68E5-0E00-000000006703}
+String: 20			: 916
+String: 21			: C:\Windows\System32\svchost.exe
+String: 22			: C:\Windows\system32\svchost.exe -k DcomLaunch -p
+String: 23			: NT AUTHORITY\SYSTEM
+
+Event number			: 66
+Written time			: Oct 07, 2025 21:33:25.822057100 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:33:25.808
+String: 3			: {8EED9800-8725-68E5-6001-000000006703}
+String: 4			: 5576
+String: 5			: C:\Windows\System32\AtBroker.exe
+String: 6			: 10.0.17763.2989 (WinBuild.160101.0800)
+String: 7			: Windows Assistive Technology Manager
+String: 8			: Microsoft® Windows® Operating System
+String: 9			: Microsoft Corporation
+String: 10			: ATBroker.exe
+String: 11			: atbroker.exe
+String: 12			: C:\Windows\system32\
+String: 13			: NT AUTHORITY\SYSTEM
+String: 14			: {8EED9800-8141-68E5-E703-000000000000}
+String: 15			: 0x00000000000003e7
+String: 16			: 2
+String: 17			: System
+String: 18			: MD5=BBC5AB2E360EA092AAAD0098FDECDC70,SHA256=CE21ACAE03A54FC15CBF6FD553CA87ED778755D41A68A701A134790CF2E14F45,IMPHASH=3656F386F76B194C623C1891C47EEC49
+String: 19			: {8EED9800-8180-68E5-6600-000000006703}
+String: 20			: 4560
+String: 21			: C:\Windows\System32\winlogon.exe
+String: 22			: winlogon.exe
+String: 23			: NT AUTHORITY\SYSTEM
+
+Event number			: 67
+Written time			: Oct 07, 2025 21:33:25.822455000 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:33:25.810
+String: 3			: {8EED9800-8725-68E5-6101-000000006703}
+String: 4			: 1576
+String: 5			: C:\Windows\System32\LogonUI.exe
+String: 6			: 10.0.17763.1 (WinBuild.160101.0800)
+String: 7			: Windows Logon User Interface Host
+String: 8			: Microsoft® Windows® Operating System
+String: 9			: Microsoft Corporation
+String: 10			: logonui.exe
+String: 11			: "LogonUI.exe" /flags:0x0 /state0:0xa3954055 /state1:0x41c64e6d
+String: 12			: C:\Windows\system32\
+String: 13			: NT AUTHORITY\SYSTEM
+String: 14			: {8EED9800-8141-68E5-E703-000000000000}
+String: 15			: 0x00000000000003e7
+String: 16			: 2
+String: 17			: System
+String: 18			: MD5=33F89DD9629CB0422A2C17268376232D,SHA256=9358EF8CB7FB08581D74274005263BD8FA2E6E0FC443930B25FD345CF6CE9071,IMPHASH=B9B0B64B08B38276711093CA94348D39
+String: 19			: {8EED9800-8180-68E5-6600-000000006703}
+String: 20			: 4560
+String: 21			: C:\Windows\System32\winlogon.exe
+String: 22			: winlogon.exe
+String: 23			: NT AUTHORITY\SYSTEM
+
+Event number			: 68
+Written time			: Oct 07, 2025 21:33:26.270610200 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:33:25.815
+String: 3			: {8EED9800-8725-68E5-6201-000000006703}
+String: 4			: 2136
+String: 5			: C:\Windows\System32\rdpclip.exe
+String: 6			: 10.0.17763.6893 (WinBuild.160101.0800)
+String: 7			: RDP Clipboard Monitor
+String: 8			: Microsoft® Windows® Operating System
+String: 9			: Microsoft Corporation
+String: 10			: rdpclip.exe
+String: 11			: rdpclip
+String: 12			: C:\Windows\system32\
+String: 13			: EC2AMAZ-AGR00JO\Administrator
+String: 14			: {8EED9800-8181-68E5-1AFA-020000000000}
+String: 15			: 0x000000000002fa1a
+String: 16			: 2
+String: 17			: High
+String: 18			: MD5=95917675AE4832C088724FCB5D9D60BE,SHA256=64F23C32E116B70C17834A74E29CD6B549EFA23B5F40458AFBA8CDA0E1F89998,IMPHASH=E3F33CEBF67721DAC951AFBD20321206
+String: 19			: {8EED9800-8142-68E5-1300-000000006703}
+String: 20			: 912
+String: 21			: C:\Windows\System32\svchost.exe
+String: 22			: C:\Windows\System32\svchost.exe -k termsvcs -s TermService
+String: 23			: NT AUTHORITY\NETWORK SERVICE
+
+Event number			: 69
+Written time			: Oct 07, 2025 21:33:26.357608900 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:33:26.263
+String: 3			: {8EED9800-8726-68E5-6301-000000006703}
+String: 4			: 5668
+String: 5			: C:\Windows\System32\sethc.exe
+String: 6			: 10.0.17763.1339 (WinBuild.160101.0800)
+String: 7			: Accessibility shortcut keys
+String: 8			: Microsoft® Windows® Operating System
+String: 9			: Microsoft Corporation
+String: 10			: sethc.exe
+String: 11			: "C:\Windows\System32\Sethc.exe" /AccessibilitySoundAgent
+String: 12			: C:\Windows\system32\
+String: 13			: NT AUTHORITY\SYSTEM
+String: 14			: {8EED9800-8141-68E5-E703-000000000000}
+String: 15			: 0x00000000000003e7
+String: 16			: 2
+String: 17			: System
+String: 18			: MD5=062940BA26F1204EBD5F62DF37D0C3A7,SHA256=52A9E16B777D1FFBBA54A686F9D77AE0AA622EC2FD7A501CEA398B7A53E64793,IMPHASH=22FF4F8C831128EFE52978F175ADCEC0
+String: 19			: {8EED9800-8725-68E5-6001-000000006703}
+String: 20			: 5576
+String: 21			: C:\Windows\System32\AtBroker.exe
+String: 22			: atbroker.exe
+String: 23			: NT AUTHORITY\SYSTEM
+
+Event number			: 70
+Written time			: Oct 07, 2025 21:33:26.437668700 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:33:26.351
+String: 3			: {8EED9800-8726-68E5-6401-000000006703}
+String: 4			: 5988
+String: 5			: C:\Windows\System32\taskhostw.exe
+String: 6			: 10.0.17763.1852 (WinBuild.160101.0800)
+String: 7			: Host Process for Windows Tasks
+String: 8			: Microsoft® Windows® Operating System
+String: 9			: Microsoft Corporation
+String: 10			: taskhostw.exe
+String: 11			: taskhostw.exe KEYROAMING
+String: 12			: C:\Windows\system32\
+String: 13			: EC2AMAZ-AGR00JO\Administrator
+String: 14			: {8EED9800-8181-68E5-1AFA-020000000000}
+String: 15			: 0x000000000002fa1a
+String: 16			: 2
+String: 17			: High
+String: 18			: MD5=8BD7B08DA6BCA54DF9B595E4D9281BEB,SHA256=DE85F29A8BC7219F10A4AC88654C3901ABC329D7505B21CD95CBF780D1EBCCF4,IMPHASH=9839C7FD9649496B162F72128209528A
+String: 19			: {8EED9800-8143-68E5-2400-000000006703}
+String: 20			: 1652
+String: 21			: C:\Windows\System32\svchost.exe
+String: 22			: C:\Windows\system32\svchost.exe -k netsvcs -p -s Schedule
+String: 23			: NT AUTHORITY\SYSTEM
+
+Event number			: 71
+Written time			: Oct 07, 2025 21:33:26.529997000 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:33:26.402
+String: 3			: {8EED9800-8726-68E5-6501-000000006703}
+String: 4			: 5144
+String: 5			: C:\Windows\System32\AtBroker.exe
+String: 6			: 10.0.17763.2989 (WinBuild.160101.0800)
+String: 7			: Windows Assistive Technology Manager
+String: 8			: Microsoft® Windows® Operating System
+String: 9			: Microsoft Corporation
+String: 10			: ATBroker.exe
+String: 11			: atbroker.exe
+String: 12			: C:\Windows\system32\
+String: 13			: EC2AMAZ-AGR00JO\Administrator
+String: 14			: {8EED9800-8181-68E5-1AFA-020000000000}
+String: 15			: 0x000000000002fa1a
+String: 16			: 2
+String: 17			: High
+String: 18			: MD5=BBC5AB2E360EA092AAAD0098FDECDC70,SHA256=CE21ACAE03A54FC15CBF6FD553CA87ED778755D41A68A701A134790CF2E14F45,IMPHASH=3656F386F76B194C623C1891C47EEC49
+String: 19			: {8EED9800-8180-68E5-6600-000000006703}
+String: 20			: 4560
+String: 21			: C:\Windows\System32\winlogon.exe
+String: 22			: winlogon.exe
+String: 23			: NT AUTHORITY\SYSTEM
+
+Event number			: 72
+Written time			: Oct 07, 2025 21:33:28.202858600 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000003 (3)
+Number of strings		: 18
+String: 1			: RDP
+String: 2			: 2025-10-07 21:33:24.681
+String: 3			: {8EED9800-8142-68E5-1300-000000006703}
+String: 4			: 912
+String: 5			: C:\Windows\System32\svchost.exe
+String: 6			: NT AUTHORITY\NETWORK SERVICE
+String: 7			: tcp
+String: 8			: false
+String: 9			: false
+String: 10			: 185.195.232.172
+String: 11			: -
+String: 12			: 65283
+String: 13			: -
+String: 14			: false
+String: 15			: 172.31.9.222
+String: 16			: EC2AMAZ-AGR00JO.eu-west-2.compute.internal
+String: 17			: 3389
+String: 18			: ms-wbt-server
+
+Event number			: 73
+Written time			: Oct 07, 2025 21:33:28.214738900 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000d (13)
+Number of strings		: 9
+String: 1			: InvDB-DriverVer
+String: 2			: SetValue
+String: 3			: 2025-10-07 21:33:28.197
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Printers\Microsoft Print to PDF (redirected 2)\DsDriver\driverVersion
+String: 8			: DWORD (0x00000401)
+String: 9			: NT AUTHORITY\SYSTEM
+
+Event number			: 74
+Written time			: Oct 07, 2025 21:33:28.251415000 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000001 (1)
+Number of strings		: 23
+String: 1			: -
+String: 2			: 2025-10-07 21:33:28.212
+String: 3			: {8EED9800-8728-68E5-6601-000000006703}
+String: 4			: 1216
+String: 5			: C:\Windows\System32\svchost.exe
+String: 6			: 10.0.17763.3346 (WinBuild.160101.0800)
+String: 7			: Host Process for Windows Services
+String: 8			: Microsoft® Windows® Operating System
+String: 9			: Microsoft Corporation
+String: 10			: svchost.exe
+String: 11			: C:\Windows\system32\svchost.exe -k netsvcs -p -s DsmSvc
+String: 12			: C:\Windows\system32\
+String: 13			: NT AUTHORITY\SYSTEM
+String: 14			: {8EED9800-8141-68E5-E703-000000000000}
+String: 15			: 0x00000000000003e7
+String: 16			: 0
+String: 17			: System
+String: 18			: MD5=4DD18F001AC31D5F48F50F99E4AA1761,SHA256=2B105FB153B1BCD619B95028612B3A93C60B953EEF6837D3BB0099E4207AAF6B,IMPHASH=247B9220E5D9B720A82B2C8B5069AD69
+String: 19			: {8EED9800-8141-68E5-0B00-000000006703}
+String: 20			: 772
+String: 21			: C:\Windows\System32\services.exe
+String: 22			: C:\Windows\system32\services.exe
+String: 23			: NT AUTHORITY\SYSTEM
+
+Event number			: 75
+Written time			: Oct 07, 2025 21:33:28.253404000 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000d (13)
+Number of strings		: 9
+String: 1			: InvDB-DriverVer
+String: 2			: SetValue
+String: 3			: 2025-10-07 21:33:28.244
+String: 4			: {8EED9800-813F-68E5-EB03-000000000000}
+String: 5			: 4
+String: 6			: System
+String: 7			: HKLM\System\CurrentControlSet\Control\Class\{1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}\0003\DriverVersion
+String: 8			: 10.0.17763.1
+String: 9			: NT AUTHORITY\SYSTEM
+
+Event number			: 76
+Written time			: Oct 07, 2025 21:33:28.257329000 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000d (13)
+Number of strings		: 9
+String: 1			: Context,DeviceConnectedOrUpdated
+String: 2			: SetValue
+String: 3			: 2025-10-07 21:33:28.244
+String: 4			: {8EED9800-813F-68E5-EB03-000000000000}
+String: 5			: 4
+String: 6			: System
+String: 7			: HKLM\System\CurrentControlSet\Enum\SWD\PRINTENUM\{9BCBE2C4-F9C4-4A49-8207-1FC01D8A58DB}\FriendlyName
+String: 8			: Microsoft Print to PDF (redirected 2)
+String: 9			: NT AUTHORITY\SYSTEM
+
+Event number			: 77
+Written time			: Oct 07, 2025 21:33:29.177626600 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000d (13)
+Number of strings		: 9
+String: 1			: Context,DeviceConnectedOrUpdated
+String: 2			: SetValue
+String: 3			: 2025-10-07 21:33:28.244
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\System\CurrentControlSet\Control\DeviceClasses\{0ecef634-6ef0-472a-8085-5ad023ecbccd}\##?#SWD#PRINTENUM#{9BCBE2C4-F9C4-4A49-8207-1FC01D8A58DB}#{0ecef634-6ef0-472a-8085-5ad023ecbccd}\#\Device Parameters\FriendlyName
+String: 8			: Microsoft Print to PDF (redirected 2)
+String: 9			: NT AUTHORITY\SYSTEM
+
+Event number			: 78
+Written time			: Oct 07, 2025 21:33:29.187024000 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000d (13)
+Number of strings		: 9
+String: 1			: InvDB-DriverVer
+String: 2			: SetValue
+String: 3			: 2025-10-07 21:33:29.165
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Printers\OneNote (redirected 2)\DsDriver\driverVersion
+String: 8			: DWORD (0x00000401)
+String: 9			: NT AUTHORITY\SYSTEM
+
+Event number			: 79
+Written time			: Oct 07, 2025 21:33:29.188858500 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000d (13)
+Number of strings		: 9
+String: 1			: InvDB-DriverVer
+String: 2			: SetValue
+String: 3			: 2025-10-07 21:33:29.181
+String: 4			: {8EED9800-813F-68E5-EB03-000000000000}
+String: 5			: 4
+String: 6			: System
+String: 7			: HKLM\System\CurrentControlSet\Control\Class\{1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}\0004\DriverVersion
+String: 8			: 10.0.17763.1
+String: 9			: NT AUTHORITY\SYSTEM
+
+Event number			: 80
+Written time			: Oct 07, 2025 21:33:29.193416400 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000d (13)
+Number of strings		: 9
+String: 1			: Context,DeviceConnectedOrUpdated
+String: 2			: SetValue
+String: 3			: 2025-10-07 21:33:29.181
+String: 4			: {8EED9800-813F-68E5-EB03-000000000000}
+String: 5			: 4
+String: 6			: System
+String: 7			: HKLM\System\CurrentControlSet\Enum\SWD\PRINTENUM\{E99D6A22-249D-43B5-8392-938DECAC57A1}\FriendlyName
+String: 8			: OneNote (redirected 2)
+String: 9			: NT AUTHORITY\SYSTEM
+
+Event number			: 81
+Written time			: Oct 07, 2025 21:33:30.900477500 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000d (13)
+Number of strings		: 9
+String: 1			: Context,DeviceConnectedOrUpdated
+String: 2			: SetValue
+String: 3			: 2025-10-07 21:33:29.181
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\System\CurrentControlSet\Control\DeviceClasses\{0ecef634-6ef0-472a-8085-5ad023ecbccd}\##?#SWD#PRINTENUM#{E99D6A22-249D-43B5-8392-938DECAC57A1}#{0ecef634-6ef0-472a-8085-5ad023ecbccd}\#\Device Parameters\FriendlyName
+String: 8			: OneNote (redirected 2)
+String: 9			: NT AUTHORITY\SYSTEM
+
+Event number			: 82
+Written time			: Oct 07, 2025 21:33:30.910929500 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000d (13)
+Number of strings		: 9
+String: 1			: InvDB-DriverVer
+String: 2			: SetValue
+String: 3			: 2025-10-07 21:33:30.885
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Printers\OneNote for Windows 10 (redirected 2)\DsDriver\driverVersion
+String: 8			: DWORD (0x00000401)
+String: 9			: NT AUTHORITY\SYSTEM
+
+Event number			: 83
+Written time			: Oct 07, 2025 21:33:30.914199300 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000d (13)
+Number of strings		: 9
+String: 1			: InvDB-DriverVer
+String: 2			: SetValue
+String: 3			: 2025-10-07 21:33:30.901
+String: 4			: {8EED9800-813F-68E5-EB03-000000000000}
+String: 5			: 4
+String: 6			: System
+String: 7			: HKLM\System\CurrentControlSet\Control\Class\{1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}\0005\DriverVersion
+String: 8			: 10.0.17763.1
+String: 9			: NT AUTHORITY\SYSTEM
+
+Event number			: 84
+Written time			: Oct 07, 2025 21:33:30.920273700 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000d (13)
+Number of strings		: 9
+String: 1			: Context,DeviceConnectedOrUpdated
+String: 2			: SetValue
+String: 3			: 2025-10-07 21:33:30.901
+String: 4			: {8EED9800-813F-68E5-EB03-000000000000}
+String: 5			: 4
+String: 6			: System
+String: 7			: HKLM\System\CurrentControlSet\Enum\SWD\PRINTENUM\{E1838D35-99E7-41D9-9092-99C4D963848E}\FriendlyName
+String: 8			: OneNote for Windows 10 (redirected 2)
+String: 9			: NT AUTHORITY\SYSTEM
+
+Event number			: 85
+Written time			: Oct 07, 2025 21:33:32.378940600 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000d (13)
+Number of strings		: 9
+String: 1			: Context,DeviceConnectedOrUpdated
+String: 2			: SetValue
+String: 3			: 2025-10-07 21:33:30.901
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\System\CurrentControlSet\Control\DeviceClasses\{0ecef634-6ef0-472a-8085-5ad023ecbccd}\##?#SWD#PRINTENUM#{E1838D35-99E7-41D9-9092-99C4D963848E}#{0ecef634-6ef0-472a-8085-5ad023ecbccd}\#\Device Parameters\FriendlyName
+String: 8			: OneNote for Windows 10 (redirected 2)
+String: 9			: NT AUTHORITY\SYSTEM
+
+Event number			: 86
+Written time			: Oct 07, 2025 21:33:32.388493400 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000d (13)
+Number of strings		: 9
+String: 1			: InvDB-DriverVer
+String: 2			: SetValue
+String: 3			: 2025-10-07 21:33:32.364
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Printers\Fax (redirected 2)\DsDriver\driverVersion
+String: 8			: DWORD (0x00000401)
+String: 9			: NT AUTHORITY\SYSTEM
+
+Event number			: 87
+Written time			: Oct 07, 2025 21:33:32.390383400 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000d (13)
+Number of strings		: 9
+String: 1			: InvDB-DriverVer
+String: 2			: SetValue
+String: 3			: 2025-10-07 21:33:32.380
+String: 4			: {8EED9800-813F-68E5-EB03-000000000000}
+String: 5			: 4
+String: 6			: System
+String: 7			: HKLM\System\CurrentControlSet\Control\Class\{1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}\0006\DriverVersion
+String: 8			: 10.0.17763.1
+String: 9			: NT AUTHORITY\SYSTEM
+
+Event number			: 88
+Written time			: Oct 07, 2025 21:33:32.394883600 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000d (13)
+Number of strings		: 9
+String: 1			: Context,DeviceConnectedOrUpdated
+String: 2			: SetValue
+String: 3			: 2025-10-07 21:33:32.380
+String: 4			: {8EED9800-813F-68E5-EB03-000000000000}
+String: 5			: 4
+String: 6			: System
+String: 7			: HKLM\System\CurrentControlSet\Enum\SWD\PRINTENUM\{8B6A5574-D662-474C-BB4B-8248F0B8CBC6}\FriendlyName
+String: 8			: Fax (redirected 2)
+String: 9			: NT AUTHORITY\SYSTEM
+
+Event number			: 89
+Written time			: Oct 07, 2025 21:33:34.506072800 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000d (13)
+Number of strings		: 9
+String: 1			: Context,DeviceConnectedOrUpdated
+String: 2			: SetValue
+String: 3			: 2025-10-07 21:33:32.380
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\System\CurrentControlSet\Control\DeviceClasses\{0ecef634-6ef0-472a-8085-5ad023ecbccd}\##?#SWD#PRINTENUM#{8B6A5574-D662-474C-BB4B-8248F0B8CBC6}#{0ecef634-6ef0-472a-8085-5ad023ecbccd}\#\Device Parameters\FriendlyName
+String: 8			: Fax (redirected 2)
+String: 9			: NT AUTHORITY\SYSTEM
+
+Event number			: 90
+Written time			: Oct 07, 2025 21:33:34.521948400 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000d (13)
+Number of strings		: 9
+String: 1			: InvDB-DriverVer
+String: 2			: SetValue
+String: 3			: 2025-10-07 21:33:34.495
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Printers\Microsoft XPS Document Writer (redirected 2)\DsDriver\driverVersion
+String: 8			: DWORD (0x00000401)
+String: 9			: NT AUTHORITY\SYSTEM
+
+Event number			: 91
+Written time			: Oct 07, 2025 21:33:34.523797200 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000d (13)
+Number of strings		: 9
+String: 1			: InvDB-DriverVer
+String: 2			: SetValue
+String: 3			: 2025-10-07 21:33:34.510
+String: 4			: {8EED9800-813F-68E5-EB03-000000000000}
+String: 5			: 4
+String: 6			: System
+String: 7			: HKLM\System\CurrentControlSet\Control\Class\{1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}\0007\DriverVersion
+String: 8			: 10.0.17763.1
+String: 9			: NT AUTHORITY\SYSTEM
+
+Event number			: 92
+Written time			: Oct 07, 2025 21:33:34.530428100 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000d (13)
+Number of strings		: 9
+String: 1			: Context,DeviceConnectedOrUpdated
+String: 2			: SetValue
+String: 3			: 2025-10-07 21:33:34.510
+String: 4			: {8EED9800-813F-68E5-EB03-000000000000}
+String: 5			: 4
+String: 6			: System
+String: 7			: HKLM\System\CurrentControlSet\Enum\SWD\PRINTENUM\{8D677A2F-2FA6-4A24-A748-14ACA365E06F}\FriendlyName
+String: 8			: Microsoft XPS Document Writer (redirected 2)
+String: 9			: NT AUTHORITY\SYSTEM
+
+Event number			: 93
+Written time			: Oct 07, 2025 21:33:48.340630500 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x0000000d (13)
+Number of strings		: 9
+String: 1			: Context,DeviceConnectedOrUpdated
+String: 2			: SetValue
+String: 3			: 2025-10-07 21:33:34.526
+String: 4			: {8EED9800-8143-68E5-3900-000000006703}
+String: 5			: 2672
+String: 6			: C:\Windows\System32\spoolsv.exe
+String: 7			: HKLM\System\CurrentControlSet\Control\DeviceClasses\{0ecef634-6ef0-472a-8085-5ad023ecbccd}\##?#SWD#PRINTENUM#{8D677A2F-2FA6-4A24-A748-14ACA365E06F}#{0ecef634-6ef0-472a-8085-5ad023ecbccd}\#\Device Parameters\FriendlyName
+String: 8			: Microsoft XPS Document Writer (redirected 2)
+String: 9			: NT AUTHORITY\SYSTEM
+
+Event number			: 94
+Written time			: Jan 01, 1601 00:00:00.000000000 UTC
+Event level			: Information (4)
+User security identifier	: S-1-5-18
+Computer name			: EC2AMAZ-AGR00JO
+Source name			: Microsoft-Windows-Sysmon
+Event identifier		: 0x00000016 (22)
+Number of strings		: 9
+String: 1			: -
+String: 2			: 2025-10-07 21:33:46.219
+String: 3			: {8EED9800-8144-68E5-3F00-000000006703}
+String: 4			: 2828
+String: 5			: ssm.eu-west-2.amazonaws.com
+String: 6			: 0
+String: 7			: ::ffff:13.43.45.150;
+String: 8			: C:\Program Files\Amazon\SSM\amazon-ssm-agent.exe
+String: 9			: NT AUTHORITY\SYSTEM
+
