@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Printer Driver Search</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+      color: #333;
+      text-align: center;
+      margin: 0;
+      padding: 2em;
+    }
+    h1 {
+      color: #444;
+    }
+    form {
+      margin: 2em auto;
+      padding: 1em;
+      background: #fff;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      max-width: 400px;
+    }
+    input[type="text"], input[type="submit"] {
+      padding: 0.6em;
+      margin: 0.3em;
+      font-size: 1em;
+    }
+    input[type="text"] {
+      width: 70%;
+    }
+    input[type="submit"] {
+      background: #0073e6;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+      border-radius: 4px;
+    }
+    input[type="submit"]:hover {
+      background: #005bb5;
+    }
+    p {
+      margin-top: 2em;
+      font-size: 0.9em;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <h1>Printer Driver Search</h1>
+  <form action="/cgi-bin/search.cgi" method="get">
+    <input type="text" name="q" placeholder="Enter printer model or driver name" />
+    <input type="submit" value="Search"/>
+  </form>
+</body>
+</html>
