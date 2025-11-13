@@ -4,4 +4,7 @@ huntress-ctf-2025.ovpn
 **/*
 !**/*.md
 
+# File too big
+day13/i_forgot/memdump.dmp
+
 !.gitignore
