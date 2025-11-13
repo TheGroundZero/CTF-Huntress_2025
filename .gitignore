@@ -27,4 +27,11 @@ day01/qrception/captcha3_zip/**
 
 day03/upx-5.0.2-amd64_linux
 
+day09/tabby/C
+!day09/tabby/C/Users/Tabby/AppData/Local/Packages/Microsoft.WindowsNotepad_8wekyb3d8bbwe/LocalState
+
+day12/angler/scripts
+
+day23/VC_redist.x64.exe
+
 !.gitignore
