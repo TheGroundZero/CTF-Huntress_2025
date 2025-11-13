@@ -1,10 +1,30 @@
 huntress-ctf-2025.ovpn
 
 # Anything that is not a writeup
-**/*
-!**/*.md
+# **/*
+# !**/*.md
+
+# Ignore archives
+**/*.zip
+**/*.tar
+**/*.7z
+**/*.tar.gz
+**/*.tar.xz
 
 # File too big
 day13/i_forgot/memdump.dmp
+
+# Too many files
+**/*.dll
+**/*.ini
+**/*.pyc
+**/*.pyd
+**/*._pth
+**/node_modules/
+
+day01/qrception/captcha3_zip/**
+!day01/qrception/captcha3_zip/output.py
+
+day03/upx-5.0.2-amd64_linux
 
 !.gitignore
